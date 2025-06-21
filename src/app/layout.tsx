@@ -1,6 +1,7 @@
 import type { Metadata, Viewport } from "next";
 import "./globals.css";
 import Header from "@/components/Header";
+import ChatBot from "@/components/ChatBot";
 
 export const metadata: Metadata = {
   title: "IA Booster - Optimisez votre entreprise avec l'IA",
@@ -109,6 +110,9 @@ export default function RootLayout({
             </div>
           </div>
         </footer>
+
+        {/* Floating ChatBot */}
+        <ChatBot />
       </body>
     </html>
   );
