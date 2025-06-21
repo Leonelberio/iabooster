@@ -43,7 +43,7 @@ export default function RootLayout({
               </p>
 
               {/* Contact Information */}
-              <div className="mb-6 space-y-2">
+              <div id="contact" className="mb-6 space-y-2">
                 <div className="flex justify-center items-center space-x-4 text-sm">
                   <a
                     href="http://bento.me/leoneladagbe"
