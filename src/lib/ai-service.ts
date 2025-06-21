@@ -8,14 +8,23 @@ import {
 } from "./tools-database";
 
 // Configuration OpenRouter
+const apiKey = process.env.OPENROUTER_API_KEY;
+
+if (!apiKey) {
+  console.error(
+    "❌ OPENROUTER_API_KEY n'est pas définie dans les variables d'environnement"
+  );
+  throw new Error("Configuration manquante: OPENROUTER_API_KEY est requis");
+}
+
 const client = new OpenAI({
   baseURL: "https://openrouter.ai/api/v1",
-  apiKey:
-    process.env.OPENROUTER_API_KEY ||
-    "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",
+  apiKey: apiKey,
   dangerouslyAllowBrowser: false,
   timeout: 30000, // 30 secondes timeout
 });
+
+console.log("✅ Client OpenRouter configuré avec succès");
 
 export async function genererRecommandationsIA(
   reponses: Partial<ReponsesFormulaire>
