@@ -35,7 +35,10 @@ export default function HomePage() {
     }
   }, [reponses]);
 
-  const handleAnswer = (field: keyof ReponsesFormulaire, value: any) => {
+  const handleAnswer = (
+    field: keyof ReponsesFormulaire,
+    value: string | number | boolean
+  ) => {
     setReponses((prev) => ({
       ...prev,
       [field]: value,

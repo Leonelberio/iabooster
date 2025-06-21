@@ -47,7 +47,10 @@ export interface QuizContextType {
   currentStep: number;
   totalSteps: number;
   reponses: Partial<ReponsesFormulaire>;
-  updateReponse: (key: keyof ReponsesFormulaire, value: any) => void;
+  updateReponse: (
+    key: keyof ReponsesFormulaire,
+    value: string | number | boolean
+  ) => void;
   nextStep: () => void;
   prevStep: () => void;
   isCompleted: boolean;

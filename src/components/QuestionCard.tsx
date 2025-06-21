@@ -6,8 +6,8 @@ import { CheckCircle, Circle } from "lucide-react";
 
 interface QuestionCardProps {
   question: Question;
-  value: any;
-  onChange: (value: any) => void;
+  value: string | number | boolean | undefined;
+  onChange: (value: string | number | boolean) => void;
   onNext: () => void;
   onPrev?: () => void;
   canGoNext: boolean;
@@ -90,7 +90,7 @@ export default function QuestionCard({
         return (
           <input
             type="number"
-            value={value || ""}
+            value={typeof value === "number" ? value.toString() : ""}
             onChange={(e) => onChange(parseInt(e.target.value) || 0)}
             onKeyPress={handleKeyPress}
             className="apple-input text-lg font-medium"
@@ -104,7 +104,7 @@ export default function QuestionCard({
         return (
           <input
             type="text"
-            value={value || ""}
+            value={typeof value === "string" ? value : ""}
             onChange={(e) => onChange(e.target.value)}
             onKeyPress={handleKeyPress}
             className="apple-input text-lg"
