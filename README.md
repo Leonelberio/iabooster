@@ -101,7 +101,7 @@ src/
 ├── app/
 │   ├── layout.tsx           # Layout principal
 │   ├── page.tsx             # Page d'accueil
-│   ├── quiz/page.tsx        # Questionnaire interactif
+<!-- │   ├── quiz/page.tsx        # Questionnaire interactif -->
 │   ├── resultats/page.tsx   # Résultats avec IA
 │   └── api/
 │       └── analyze/route.ts # API pour analyse IA

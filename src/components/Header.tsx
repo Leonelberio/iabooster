@@ -61,14 +61,6 @@ export default function Header({
 
           {/* Navigation */}
           <nav className="hidden md:flex items-center space-x-8">
-            <Link href="/quiz">
-              <motion.span
-                className="text-gray-700 hover:text-blue-600 font-medium transition-colors duration-200 cursor-pointer"
-                whileHover={{ scale: 1.05 }}
-              >
-                Diagnostic
-              </motion.span>
-            </Link>
             <motion.a
               href="#contact"
               className="text-gray-700 hover:text-blue-600 font-medium transition-colors duration-200"
@@ -79,17 +71,7 @@ export default function Header({
           </nav>
 
           {/* Mobile menu button */}
-          <div className="md:hidden">
-            <Link href="/quiz">
-              <motion.button
-                className="apple-button text-sm py-2 px-4"
-                whileHover={{ scale: 1.05 }}
-                whileTap={{ scale: 0.95 }}
-              >
-                Commencer
-              </motion.button>
-            </Link>
-          </div>
+          <div className="md:hidden"></div>
         </div>
       </div>
     </motion.header>
