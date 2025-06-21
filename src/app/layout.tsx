@@ -102,15 +102,9 @@ export default function RootLayout({
                 >
                   Conditions
                 </a>
-                <a
-                  href="mailto:contact@iabooster.com"
-                  className="text-gray-500 hover:text-gray-900 transition-colors"
-                >
-                  Contact
-                </a>
               </div>
               <p className="text-gray-400 text-xs mt-8">
-                © 2024 IA Booster. Tous droits réservés.
+                © {new Date().getFullYear()} IA Booster. Tous droits réservés.
               </p>
             </div>
           </div>
