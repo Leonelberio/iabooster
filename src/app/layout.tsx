@@ -112,7 +112,7 @@ export default function RootLayout({
         </footer>
 
         {/* Floating ChatBot */}
-        <ChatBot />
+        {/* <ChatBot /> */}
       </body>
     </html>
   );
