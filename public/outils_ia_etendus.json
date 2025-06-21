@@ -1,0 +1,3012 @@
+{
+  "serviceClient": [
+    {
+      "nom": "Freshdesk AI 43",
+      "description": "Support client omnicanal",
+      "prix": "15€/mois",
+      "lien": "https://freshdesk.com"
+    },
+    {
+      "nom": "Drift AI 959",
+      "description": "Chatbots et marketing conversationnel",
+      "prix": "Sur devis",
+      "lien": "https://drift.com"
+    },
+    {
+      "nom": "Drift AI 150",
+      "description": "Chatbots et marketing conversationnel",
+      "prix": "Sur devis",
+      "lien": "https://drift.com"
+    },
+    {
+      "nom": "Tawk.to AI 341",
+      "description": "Chat en direct gratuit avec options IA",
+      "prix": "0€/mois",
+      "lien": "https://tawk.to"
+    },
+    {
+      "nom": "Drift AI 355",
+      "description": "Chatbots et marketing conversationnel",
+      "prix": "Sur devis",
+      "lien": "https://drift.com"
+    },
+    {
+      "nom": "Tawk.to AI 186",
+      "description": "Chat en direct gratuit avec options IA",
+      "prix": "0€/mois",
+      "lien": "https://tawk.to"
+    },
+    {
+      "nom": "Tawk.to AI 14",
+      "description": "Chat en direct gratuit avec options IA",
+      "prix": "0€/mois",
+      "lien": "https://tawk.to"
+    },
+    {
+      "nom": "Drift AI 78",
+      "description": "Chatbots et marketing conversationnel",
+      "prix": "Sur devis",
+      "lien": "https://drift.com"
+    },
+    {
+      "nom": "Freshdesk AI 318",
+      "description": "Support client omnicanal",
+      "prix": "15€/mois",
+      "lien": "https://freshdesk.com"
+    },
+    {
+      "nom": "Freshdesk AI 231",
+      "description": "Support client omnicanal",
+      "prix": "15€/mois",
+      "lien": "https://freshdesk.com"
+    },
+    {
+      "nom": "Tawk.to AI 423",
+      "description": "Chat en direct gratuit avec options IA",
+      "prix": "0€/mois",
+      "lien": "https://tawk.to"
+    },
+    {
+      "nom": "Drift AI 330",
+      "description": "Chatbots et marketing conversationnel",
+      "prix": "Sur devis",
+      "lien": "https://drift.com"
+    },
+    {
+      "nom": "Freshdesk AI 426",
+      "description": "Support client omnicanal",
+      "prix": "15€/mois",
+      "lien": "https://freshdesk.com"
+    },
+    {
+      "nom": "Tawk.to AI 826",
+      "description": "Chat en direct gratuit avec options IA",
+      "prix": "0€/mois",
+      "lien": "https://tawk.to"
+    },
+    {
+      "nom": "Freshdesk AI 264",
+      "description": "Support client omnicanal",
+      "prix": "15€/mois",
+      "lien": "https://freshdesk.com"
+    },
+    {
+      "nom": "Drift AI 669",
+      "description": "Chatbots et marketing conversationnel",
+      "prix": "Sur devis",
+      "lien": "https://drift.com"
+    },
+    {
+      "nom": "Freshdesk AI 243",
+      "description": "Support client omnicanal",
+      "prix": "15€/mois",
+      "lien": "https://freshdesk.com"
+    },
+    {
+      "nom": "Tawk.to AI 740",
+      "description": "Chat en direct gratuit avec options IA",
+      "prix": "0€/mois",
+      "lien": "https://tawk.to"
+    },
+    {
+      "nom": "Freshdesk AI 370",
+      "description": "Support client omnicanal",
+      "prix": "15€/mois",
+      "lien": "https://freshdesk.com"
+    },
+    {
+      "nom": "Tawk.to AI 781",
+      "description": "Chat en direct gratuit avec options IA",
+      "prix": "0€/mois",
+      "lien": "https://tawk.to"
+    },
+    {
+      "nom": "Freshdesk AI 747",
+      "description": "Support client omnicanal",
+      "prix": "15€/mois",
+      "lien": "https://freshdesk.com"
+    },
+    {
+      "nom": "Drift AI 929",
+      "description": "Chatbots et marketing conversationnel",
+      "prix": "Sur devis",
+      "lien": "https://drift.com"
+    },
+    {
+      "nom": "Freshdesk AI 246",
+      "description": "Support client omnicanal",
+      "prix": "15€/mois",
+      "lien": "https://freshdesk.com"
+    },
+    {
+      "nom": "Tawk.to AI 636",
+      "description": "Chat en direct gratuit avec options IA",
+      "prix": "0€/mois",
+      "lien": "https://tawk.to"
+    },
+    {
+      "nom": "Freshdesk AI 56",
+      "description": "Support client omnicanal",
+      "prix": "15€/mois",
+      "lien": "https://freshdesk.com"
+    },
+    {
+      "nom": "Freshdesk AI 479",
+      "description": "Support client omnicanal",
+      "prix": "15€/mois",
+      "lien": "https://freshdesk.com"
+    },
+    {
+      "nom": "Freshdesk AI 151",
+      "description": "Support client omnicanal",
+      "prix": "15€/mois",
+      "lien": "https://freshdesk.com"
+    },
+    {
+      "nom": "Freshdesk AI 407",
+      "description": "Support client omnicanal",
+      "prix": "15€/mois",
+      "lien": "https://freshdesk.com"
+    },
+    {
+      "nom": "Drift AI 393",
+      "description": "Chatbots et marketing conversationnel",
+      "prix": "Sur devis",
+      "lien": "https://drift.com"
+    },
+    {
+      "nom": "Drift AI 588",
+      "description": "Chatbots et marketing conversationnel",
+      "prix": "Sur devis",
+      "lien": "https://drift.com"
+    },
+    {
+      "nom": "Drift AI 822",
+      "description": "Chatbots et marketing conversationnel",
+      "prix": "Sur devis",
+      "lien": "https://drift.com"
+    },
+    {
+      "nom": "Tawk.to AI 923",
+      "description": "Chat en direct gratuit avec options IA",
+      "prix": "0€/mois",
+      "lien": "https://tawk.to"
+    },
+    {
+      "nom": "Tawk.to AI 227",
+      "description": "Chat en direct gratuit avec options IA",
+      "prix": "0€/mois",
+      "lien": "https://tawk.to"
+    },
+    {
+      "nom": "Drift AI 146",
+      "description": "Chatbots et marketing conversationnel",
+      "prix": "Sur devis",
+      "lien": "https://drift.com"
+    },
+    {
+      "nom": "Tawk.to AI 154",
+      "description": "Chat en direct gratuit avec options IA",
+      "prix": "0€/mois",
+      "lien": "https://tawk.to"
+    },
+    {
+      "nom": "Tawk.to AI 340",
+      "description": "Chat en direct gratuit avec options IA",
+      "prix": "0€/mois",
+      "lien": "https://tawk.to"
+    },
+    {
+      "nom": "Drift AI 644",
+      "description": "Chatbots et marketing conversationnel",
+      "prix": "Sur devis",
+      "lien": "https://drift.com"
+    },
+    {
+      "nom": "Tawk.to AI 899",
+      "description": "Chat en direct gratuit avec options IA",
+      "prix": "0€/mois",
+      "lien": "https://tawk.to"
+    },
+    {
+      "nom": "Freshdesk AI 101",
+      "description": "Support client omnicanal",
+      "prix": "15€/mois",
+      "lien": "https://freshdesk.com"
+    },
+    {
+      "nom": "Freshdesk AI 362",
+      "description": "Support client omnicanal",
+      "prix": "15€/mois",
+      "lien": "https://freshdesk.com"
+    },
+    {
+      "nom": "Freshdesk AI 556",
+      "description": "Support client omnicanal",
+      "prix": "15€/mois",
+      "lien": "https://freshdesk.com"
+    },
+    {
+      "nom": "Drift AI 718",
+      "description": "Chatbots et marketing conversationnel",
+      "prix": "Sur devis",
+      "lien": "https://drift.com"
+    },
+    {
+      "nom": "Drift AI 658",
+      "description": "Chatbots et marketing conversationnel",
+      "prix": "Sur devis",
+      "lien": "https://drift.com"
+    },
+    {
+      "nom": "Drift AI 447",
+      "description": "Chatbots et marketing conversationnel",
+      "prix": "Sur devis",
+      "lien": "https://drift.com"
+    },
+    {
+      "nom": "Freshdesk AI 243",
+      "description": "Support client omnicanal",
+      "prix": "15€/mois",
+      "lien": "https://freshdesk.com"
+    },
+    {
+      "nom": "Freshdesk AI 423",
+      "description": "Support client omnicanal",
+      "prix": "15€/mois",
+      "lien": "https://freshdesk.com"
+    },
+    {
+      "nom": "Tawk.to AI 508",
+      "description": "Chat en direct gratuit avec options IA",
+      "prix": "0€/mois",
+      "lien": "https://tawk.to"
+    },
+    {
+      "nom": "Tawk.to AI 3",
+      "description": "Chat en direct gratuit avec options IA",
+      "prix": "0€/mois",
+      "lien": "https://tawk.to"
+    },
+    {
+      "nom": "Tawk.to AI 635",
+      "description": "Chat en direct gratuit avec options IA",
+      "prix": "0€/mois",
+      "lien": "https://tawk.to"
+    },
+    {
+      "nom": "Tawk.to AI 255",
+      "description": "Chat en direct gratuit avec options IA",
+      "prix": "0€/mois",
+      "lien": "https://tawk.to"
+    },
+    {
+      "nom": "Tawk.to AI 938",
+      "description": "Chat en direct gratuit avec options IA",
+      "prix": "0€/mois",
+      "lien": "https://tawk.to"
+    },
+    {
+      "nom": "Drift AI 224",
+      "description": "Chatbots et marketing conversationnel",
+      "prix": "Sur devis",
+      "lien": "https://drift.com"
+    },
+    {
+      "nom": "Drift AI 744",
+      "description": "Chatbots et marketing conversationnel",
+      "prix": "Sur devis",
+      "lien": "https://drift.com"
+    },
+    {
+      "nom": "Tawk.to AI 177",
+      "description": "Chat en direct gratuit avec options IA",
+      "prix": "0€/mois",
+      "lien": "https://tawk.to"
+    },
+    {
+      "nom": "Drift AI 577",
+      "description": "Chatbots et marketing conversationnel",
+      "prix": "Sur devis",
+      "lien": "https://drift.com"
+    },
+    {
+      "nom": "Drift AI 666",
+      "description": "Chatbots et marketing conversationnel",
+      "prix": "Sur devis",
+      "lien": "https://drift.com"
+    },
+    {
+      "nom": "Drift AI 602",
+      "description": "Chatbots et marketing conversationnel",
+      "prix": "Sur devis",
+      "lien": "https://drift.com"
+    },
+    {
+      "nom": "Drift AI 362",
+      "description": "Chatbots et marketing conversationnel",
+      "prix": "Sur devis",
+      "lien": "https://drift.com"
+    },
+    {
+      "nom": "Freshdesk AI 59",
+      "description": "Support client omnicanal",
+      "prix": "15€/mois",
+      "lien": "https://freshdesk.com"
+    },
+    {
+      "nom": "Drift AI 23",
+      "description": "Chatbots et marketing conversationnel",
+      "prix": "Sur devis",
+      "lien": "https://drift.com"
+    },
+    {
+      "nom": "Drift AI 511",
+      "description": "Chatbots et marketing conversationnel",
+      "prix": "Sur devis",
+      "lien": "https://drift.com"
+    },
+    {
+      "nom": "Tawk.to AI 235",
+      "description": "Chat en direct gratuit avec options IA",
+      "prix": "0€/mois",
+      "lien": "https://tawk.to"
+    },
+    {
+      "nom": "Freshdesk AI 397",
+      "description": "Support client omnicanal",
+      "prix": "15€/mois",
+      "lien": "https://freshdesk.com"
+    },
+    {
+      "nom": "Freshdesk AI 148",
+      "description": "Support client omnicanal",
+      "prix": "15€/mois",
+      "lien": "https://freshdesk.com"
+    },
+    {
+      "nom": "Freshdesk AI 253",
+      "description": "Support client omnicanal",
+      "prix": "15€/mois",
+      "lien": "https://freshdesk.com"
+    },
+    {
+      "nom": "Drift AI 999",
+      "description": "Chatbots et marketing conversationnel",
+      "prix": "Sur devis",
+      "lien": "https://drift.com"
+    },
+    {
+      "nom": "Tawk.to AI 372",
+      "description": "Chat en direct gratuit avec options IA",
+      "prix": "0€/mois",
+      "lien": "https://tawk.to"
+    },
+    {
+      "nom": "Freshdesk AI 71",
+      "description": "Support client omnicanal",
+      "prix": "15€/mois",
+      "lien": "https://freshdesk.com"
+    },
+    {
+      "nom": "Drift AI 567",
+      "description": "Chatbots et marketing conversationnel",
+      "prix": "Sur devis",
+      "lien": "https://drift.com"
+    },
+    {
+      "nom": "Freshdesk AI 193",
+      "description": "Support client omnicanal",
+      "prix": "15€/mois",
+      "lien": "https://freshdesk.com"
+    },
+    {
+      "nom": "Freshdesk AI 387",
+      "description": "Support client omnicanal",
+      "prix": "15€/mois",
+      "lien": "https://freshdesk.com"
+    },
+    {
+      "nom": "Drift AI 465",
+      "description": "Chatbots et marketing conversationnel",
+      "prix": "Sur devis",
+      "lien": "https://drift.com"
+    },
+    {
+      "nom": "Drift AI 849",
+      "description": "Chatbots et marketing conversationnel",
+      "prix": "Sur devis",
+      "lien": "https://drift.com"
+    },
+    {
+      "nom": "Freshdesk AI 415",
+      "description": "Support client omnicanal",
+      "prix": "15€/mois",
+      "lien": "https://freshdesk.com"
+    },
+    {
+      "nom": "Tawk.to AI 424",
+      "description": "Chat en direct gratuit avec options IA",
+      "prix": "0€/mois",
+      "lien": "https://tawk.to"
+    },
+    {
+      "nom": "Freshdesk AI 317",
+      "description": "Support client omnicanal",
+      "prix": "15€/mois",
+      "lien": "https://freshdesk.com"
+    },
+    {
+      "nom": "Freshdesk AI 664",
+      "description": "Support client omnicanal",
+      "prix": "15€/mois",
+      "lien": "https://freshdesk.com"
+    },
+    {
+      "nom": "Tawk.to AI 335",
+      "description": "Chat en direct gratuit avec options IA",
+      "prix": "0€/mois",
+      "lien": "https://tawk.to"
+    },
+    {
+      "nom": "Drift AI 3",
+      "description": "Chatbots et marketing conversationnel",
+      "prix": "Sur devis",
+      "lien": "https://drift.com"
+    },
+    {
+      "nom": "Drift AI 788",
+      "description": "Chatbots et marketing conversationnel",
+      "prix": "Sur devis",
+      "lien": "https://drift.com"
+    },
+    {
+      "nom": "Freshdesk AI 242",
+      "description": "Support client omnicanal",
+      "prix": "15€/mois",
+      "lien": "https://freshdesk.com"
+    },
+    {
+      "nom": "Drift AI 868",
+      "description": "Chatbots et marketing conversationnel",
+      "prix": "Sur devis",
+      "lien": "https://drift.com"
+    },
+    {
+      "nom": "Tawk.to AI 690",
+      "description": "Chat en direct gratuit avec options IA",
+      "prix": "0€/mois",
+      "lien": "https://tawk.to"
+    },
+    {
+      "nom": "Drift AI 582",
+      "description": "Chatbots et marketing conversationnel",
+      "prix": "Sur devis",
+      "lien": "https://drift.com"
+    },
+    {
+      "nom": "Freshdesk AI 74",
+      "description": "Support client omnicanal",
+      "prix": "15€/mois",
+      "lien": "https://freshdesk.com"
+    },
+    {
+      "nom": "Drift AI 529",
+      "description": "Chatbots et marketing conversationnel",
+      "prix": "Sur devis",
+      "lien": "https://drift.com"
+    },
+    {
+      "nom": "Drift AI 10",
+      "description": "Chatbots et marketing conversationnel",
+      "prix": "Sur devis",
+      "lien": "https://drift.com"
+    },
+    {
+      "nom": "Drift AI 815",
+      "description": "Chatbots et marketing conversationnel",
+      "prix": "Sur devis",
+      "lien": "https://drift.com"
+    },
+    {
+      "nom": "Freshdesk AI 133",
+      "description": "Support client omnicanal",
+      "prix": "15€/mois",
+      "lien": "https://freshdesk.com"
+    },
+    {
+      "nom": "Drift AI 269",
+      "description": "Chatbots et marketing conversationnel",
+      "prix": "Sur devis",
+      "lien": "https://drift.com"
+    },
+    {
+      "nom": "Tawk.to AI 52",
+      "description": "Chat en direct gratuit avec options IA",
+      "prix": "0€/mois",
+      "lien": "https://tawk.to"
+    },
+    {
+      "nom": "Tawk.to AI 931",
+      "description": "Chat en direct gratuit avec options IA",
+      "prix": "0€/mois",
+      "lien": "https://tawk.to"
+    },
+    {
+      "nom": "Freshdesk AI 405",
+      "description": "Support client omnicanal",
+      "prix": "15€/mois",
+      "lien": "https://freshdesk.com"
+    },
+    {
+      "nom": "Drift AI 509",
+      "description": "Chatbots et marketing conversationnel",
+      "prix": "Sur devis",
+      "lien": "https://drift.com"
+    },
+    {
+      "nom": "Drift AI 71",
+      "description": "Chatbots et marketing conversationnel",
+      "prix": "Sur devis",
+      "lien": "https://drift.com"
+    },
+    {
+      "nom": "Freshdesk AI 279",
+      "description": "Support client omnicanal",
+      "prix": "15€/mois",
+      "lien": "https://freshdesk.com"
+    },
+    {
+      "nom": "Freshdesk AI 257",
+      "description": "Support client omnicanal",
+      "prix": "15€/mois",
+      "lien": "https://freshdesk.com"
+    },
+    {
+      "nom": "Drift AI 890",
+      "description": "Chatbots et marketing conversationnel",
+      "prix": "Sur devis",
+      "lien": "https://drift.com"
+    },
+    {
+      "nom": "Tawk.to AI 336",
+      "description": "Chat en direct gratuit avec options IA",
+      "prix": "0€/mois",
+      "lien": "https://tawk.to"
+    },
+    {
+      "nom": "Drift AI 688",
+      "description": "Chatbots et marketing conversationnel",
+      "prix": "Sur devis",
+      "lien": "https://drift.com"
+    }
+  ],
+  "marketing": [
+    {
+      "nom": "Writesonic AI 20",
+      "description": "Génération de contenu marketing",
+      "prix": "19€/mois",
+      "lien": "https://writesonic.com"
+    },
+    {
+      "nom": "Writesonic AI 90",
+      "description": "Génération de contenu marketing",
+      "prix": "19€/mois",
+      "lien": "https://writesonic.com"
+    },
+    {
+      "nom": "Writesonic AI 524",
+      "description": "Génération de contenu marketing",
+      "prix": "19€/mois",
+      "lien": "https://writesonic.com"
+    },
+    {
+      "nom": "Surfer SEO AI 866",
+      "description": "Optimisation SEO automatisée",
+      "prix": "49€/mois",
+      "lien": "https://surferseo.com"
+    },
+    {
+      "nom": "Lumen5 AI 110",
+      "description": "Création de vidéos marketing avec IA",
+      "prix": "29€/mois",
+      "lien": "https://lumen5.com"
+    },
+    {
+      "nom": "Writesonic AI 706",
+      "description": "Génération de contenu marketing",
+      "prix": "19€/mois",
+      "lien": "https://writesonic.com"
+    },
+    {
+      "nom": "Writesonic AI 885",
+      "description": "Génération de contenu marketing",
+      "prix": "19€/mois",
+      "lien": "https://writesonic.com"
+    },
+    {
+      "nom": "Lumen5 AI 252",
+      "description": "Création de vidéos marketing avec IA",
+      "prix": "29€/mois",
+      "lien": "https://lumen5.com"
+    },
+    {
+      "nom": "Writesonic AI 60",
+      "description": "Génération de contenu marketing",
+      "prix": "19€/mois",
+      "lien": "https://writesonic.com"
+    },
+    {
+      "nom": "Lumen5 AI 534",
+      "description": "Création de vidéos marketing avec IA",
+      "prix": "29€/mois",
+      "lien": "https://lumen5.com"
+    },
+    {
+      "nom": "Surfer SEO AI 571",
+      "description": "Optimisation SEO automatisée",
+      "prix": "49€/mois",
+      "lien": "https://surferseo.com"
+    },
+    {
+      "nom": "Surfer SEO AI 622",
+      "description": "Optimisation SEO automatisée",
+      "prix": "49€/mois",
+      "lien": "https://surferseo.com"
+    },
+    {
+      "nom": "Lumen5 AI 353",
+      "description": "Création de vidéos marketing avec IA",
+      "prix": "29€/mois",
+      "lien": "https://lumen5.com"
+    },
+    {
+      "nom": "Writesonic AI 679",
+      "description": "Génération de contenu marketing",
+      "prix": "19€/mois",
+      "lien": "https://writesonic.com"
+    },
+    {
+      "nom": "Writesonic AI 763",
+      "description": "Génération de contenu marketing",
+      "prix": "19€/mois",
+      "lien": "https://writesonic.com"
+    },
+    {
+      "nom": "Writesonic AI 537",
+      "description": "Génération de contenu marketing",
+      "prix": "19€/mois",
+      "lien": "https://writesonic.com"
+    },
+    {
+      "nom": "Lumen5 AI 74",
+      "description": "Création de vidéos marketing avec IA",
+      "prix": "29€/mois",
+      "lien": "https://lumen5.com"
+    },
+    {
+      "nom": "Lumen5 AI 188",
+      "description": "Création de vidéos marketing avec IA",
+      "prix": "29€/mois",
+      "lien": "https://lumen5.com"
+    },
+    {
+      "nom": "Lumen5 AI 654",
+      "description": "Création de vidéos marketing avec IA",
+      "prix": "29€/mois",
+      "lien": "https://lumen5.com"
+    },
+    {
+      "nom": "Surfer SEO AI 211",
+      "description": "Optimisation SEO automatisée",
+      "prix": "49€/mois",
+      "lien": "https://surferseo.com"
+    },
+    {
+      "nom": "Writesonic AI 376",
+      "description": "Génération de contenu marketing",
+      "prix": "19€/mois",
+      "lien": "https://writesonic.com"
+    },
+    {
+      "nom": "Surfer SEO AI 826",
+      "description": "Optimisation SEO automatisée",
+      "prix": "49€/mois",
+      "lien": "https://surferseo.com"
+    },
+    {
+      "nom": "Writesonic AI 257",
+      "description": "Génération de contenu marketing",
+      "prix": "19€/mois",
+      "lien": "https://writesonic.com"
+    },
+    {
+      "nom": "Surfer SEO AI 355",
+      "description": "Optimisation SEO automatisée",
+      "prix": "49€/mois",
+      "lien": "https://surferseo.com"
+    },
+    {
+      "nom": "Surfer SEO AI 97",
+      "description": "Optimisation SEO automatisée",
+      "prix": "49€/mois",
+      "lien": "https://surferseo.com"
+    },
+    {
+      "nom": "Surfer SEO AI 241",
+      "description": "Optimisation SEO automatisée",
+      "prix": "49€/mois",
+      "lien": "https://surferseo.com"
+    },
+    {
+      "nom": "Lumen5 AI 580",
+      "description": "Création de vidéos marketing avec IA",
+      "prix": "29€/mois",
+      "lien": "https://lumen5.com"
+    },
+    {
+      "nom": "Surfer SEO AI 859",
+      "description": "Optimisation SEO automatisée",
+      "prix": "49€/mois",
+      "lien": "https://surferseo.com"
+    },
+    {
+      "nom": "Lumen5 AI 15",
+      "description": "Création de vidéos marketing avec IA",
+      "prix": "29€/mois",
+      "lien": "https://lumen5.com"
+    },
+    {
+      "nom": "Lumen5 AI 603",
+      "description": "Création de vidéos marketing avec IA",
+      "prix": "29€/mois",
+      "lien": "https://lumen5.com"
+    },
+    {
+      "nom": "Lumen5 AI 488",
+      "description": "Création de vidéos marketing avec IA",
+      "prix": "29€/mois",
+      "lien": "https://lumen5.com"
+    },
+    {
+      "nom": "Lumen5 AI 35",
+      "description": "Création de vidéos marketing avec IA",
+      "prix": "29€/mois",
+      "lien": "https://lumen5.com"
+    },
+    {
+      "nom": "Lumen5 AI 75",
+      "description": "Création de vidéos marketing avec IA",
+      "prix": "29€/mois",
+      "lien": "https://lumen5.com"
+    },
+    {
+      "nom": "Lumen5 AI 779",
+      "description": "Création de vidéos marketing avec IA",
+      "prix": "29€/mois",
+      "lien": "https://lumen5.com"
+    },
+    {
+      "nom": "Lumen5 AI 437",
+      "description": "Création de vidéos marketing avec IA",
+      "prix": "29€/mois",
+      "lien": "https://lumen5.com"
+    },
+    {
+      "nom": "Surfer SEO AI 972",
+      "description": "Optimisation SEO automatisée",
+      "prix": "49€/mois",
+      "lien": "https://surferseo.com"
+    },
+    {
+      "nom": "Writesonic AI 288",
+      "description": "Génération de contenu marketing",
+      "prix": "19€/mois",
+      "lien": "https://writesonic.com"
+    },
+    {
+      "nom": "Surfer SEO AI 57",
+      "description": "Optimisation SEO automatisée",
+      "prix": "49€/mois",
+      "lien": "https://surferseo.com"
+    },
+    {
+      "nom": "Surfer SEO AI 932",
+      "description": "Optimisation SEO automatisée",
+      "prix": "49€/mois",
+      "lien": "https://surferseo.com"
+    },
+    {
+      "nom": "Writesonic AI 231",
+      "description": "Génération de contenu marketing",
+      "prix": "19€/mois",
+      "lien": "https://writesonic.com"
+    },
+    {
+      "nom": "Lumen5 AI 66",
+      "description": "Création de vidéos marketing avec IA",
+      "prix": "29€/mois",
+      "lien": "https://lumen5.com"
+    },
+    {
+      "nom": "Surfer SEO AI 363",
+      "description": "Optimisation SEO automatisée",
+      "prix": "49€/mois",
+      "lien": "https://surferseo.com"
+    },
+    {
+      "nom": "Lumen5 AI 328",
+      "description": "Création de vidéos marketing avec IA",
+      "prix": "29€/mois",
+      "lien": "https://lumen5.com"
+    },
+    {
+      "nom": "Lumen5 AI 607",
+      "description": "Création de vidéos marketing avec IA",
+      "prix": "29€/mois",
+      "lien": "https://lumen5.com"
+    },
+    {
+      "nom": "Lumen5 AI 750",
+      "description": "Création de vidéos marketing avec IA",
+      "prix": "29€/mois",
+      "lien": "https://lumen5.com"
+    },
+    {
+      "nom": "Lumen5 AI 988",
+      "description": "Création de vidéos marketing avec IA",
+      "prix": "29€/mois",
+      "lien": "https://lumen5.com"
+    },
+    {
+      "nom": "Writesonic AI 701",
+      "description": "Génération de contenu marketing",
+      "prix": "19€/mois",
+      "lien": "https://writesonic.com"
+    },
+    {
+      "nom": "Surfer SEO AI 501",
+      "description": "Optimisation SEO automatisée",
+      "prix": "49€/mois",
+      "lien": "https://surferseo.com"
+    },
+    {
+      "nom": "Surfer SEO AI 649",
+      "description": "Optimisation SEO automatisée",
+      "prix": "49€/mois",
+      "lien": "https://surferseo.com"
+    },
+    {
+      "nom": "Lumen5 AI 940",
+      "description": "Création de vidéos marketing avec IA",
+      "prix": "29€/mois",
+      "lien": "https://lumen5.com"
+    },
+    {
+      "nom": "Writesonic AI 74",
+      "description": "Génération de contenu marketing",
+      "prix": "19€/mois",
+      "lien": "https://writesonic.com"
+    },
+    {
+      "nom": "Writesonic AI 662",
+      "description": "Génération de contenu marketing",
+      "prix": "19€/mois",
+      "lien": "https://writesonic.com"
+    },
+    {
+      "nom": "Writesonic AI 665",
+      "description": "Génération de contenu marketing",
+      "prix": "19€/mois",
+      "lien": "https://writesonic.com"
+    },
+    {
+      "nom": "Writesonic AI 785",
+      "description": "Génération de contenu marketing",
+      "prix": "19€/mois",
+      "lien": "https://writesonic.com"
+    },
+    {
+      "nom": "Lumen5 AI 2",
+      "description": "Création de vidéos marketing avec IA",
+      "prix": "29€/mois",
+      "lien": "https://lumen5.com"
+    },
+    {
+      "nom": "Surfer SEO AI 423",
+      "description": "Optimisation SEO automatisée",
+      "prix": "49€/mois",
+      "lien": "https://surferseo.com"
+    },
+    {
+      "nom": "Lumen5 AI 373",
+      "description": "Création de vidéos marketing avec IA",
+      "prix": "29€/mois",
+      "lien": "https://lumen5.com"
+    },
+    {
+      "nom": "Surfer SEO AI 816",
+      "description": "Optimisation SEO automatisée",
+      "prix": "49€/mois",
+      "lien": "https://surferseo.com"
+    },
+    {
+      "nom": "Surfer SEO AI 192",
+      "description": "Optimisation SEO automatisée",
+      "prix": "49€/mois",
+      "lien": "https://surferseo.com"
+    },
+    {
+      "nom": "Lumen5 AI 387",
+      "description": "Création de vidéos marketing avec IA",
+      "prix": "29€/mois",
+      "lien": "https://lumen5.com"
+    },
+    {
+      "nom": "Surfer SEO AI 921",
+      "description": "Optimisation SEO automatisée",
+      "prix": "49€/mois",
+      "lien": "https://surferseo.com"
+    },
+    {
+      "nom": "Writesonic AI 689",
+      "description": "Génération de contenu marketing",
+      "prix": "19€/mois",
+      "lien": "https://writesonic.com"
+    },
+    {
+      "nom": "Lumen5 AI 836",
+      "description": "Création de vidéos marketing avec IA",
+      "prix": "29€/mois",
+      "lien": "https://lumen5.com"
+    },
+    {
+      "nom": "Lumen5 AI 502",
+      "description": "Création de vidéos marketing avec IA",
+      "prix": "29€/mois",
+      "lien": "https://lumen5.com"
+    },
+    {
+      "nom": "Lumen5 AI 290",
+      "description": "Création de vidéos marketing avec IA",
+      "prix": "29€/mois",
+      "lien": "https://lumen5.com"
+    },
+    {
+      "nom": "Writesonic AI 279",
+      "description": "Génération de contenu marketing",
+      "prix": "19€/mois",
+      "lien": "https://writesonic.com"
+    },
+    {
+      "nom": "Surfer SEO AI 606",
+      "description": "Optimisation SEO automatisée",
+      "prix": "49€/mois",
+      "lien": "https://surferseo.com"
+    },
+    {
+      "nom": "Writesonic AI 65",
+      "description": "Génération de contenu marketing",
+      "prix": "19€/mois",
+      "lien": "https://writesonic.com"
+    },
+    {
+      "nom": "Lumen5 AI 622",
+      "description": "Création de vidéos marketing avec IA",
+      "prix": "29€/mois",
+      "lien": "https://lumen5.com"
+    },
+    {
+      "nom": "Lumen5 AI 410",
+      "description": "Création de vidéos marketing avec IA",
+      "prix": "29€/mois",
+      "lien": "https://lumen5.com"
+    },
+    {
+      "nom": "Writesonic AI 70",
+      "description": "Génération de contenu marketing",
+      "prix": "19€/mois",
+      "lien": "https://writesonic.com"
+    },
+    {
+      "nom": "Surfer SEO AI 801",
+      "description": "Optimisation SEO automatisée",
+      "prix": "49€/mois",
+      "lien": "https://surferseo.com"
+    },
+    {
+      "nom": "Writesonic AI 418",
+      "description": "Génération de contenu marketing",
+      "prix": "19€/mois",
+      "lien": "https://writesonic.com"
+    },
+    {
+      "nom": "Writesonic AI 40",
+      "description": "Génération de contenu marketing",
+      "prix": "19€/mois",
+      "lien": "https://writesonic.com"
+    },
+    {
+      "nom": "Surfer SEO AI 850",
+      "description": "Optimisation SEO automatisée",
+      "prix": "49€/mois",
+      "lien": "https://surferseo.com"
+    },
+    {
+      "nom": "Lumen5 AI 144",
+      "description": "Création de vidéos marketing avec IA",
+      "prix": "29€/mois",
+      "lien": "https://lumen5.com"
+    },
+    {
+      "nom": "Writesonic AI 605",
+      "description": "Génération de contenu marketing",
+      "prix": "19€/mois",
+      "lien": "https://writesonic.com"
+    },
+    {
+      "nom": "Lumen5 AI 341",
+      "description": "Création de vidéos marketing avec IA",
+      "prix": "29€/mois",
+      "lien": "https://lumen5.com"
+    },
+    {
+      "nom": "Writesonic AI 197",
+      "description": "Génération de contenu marketing",
+      "prix": "19€/mois",
+      "lien": "https://writesonic.com"
+    },
+    {
+      "nom": "Writesonic AI 715",
+      "description": "Génération de contenu marketing",
+      "prix": "19€/mois",
+      "lien": "https://writesonic.com"
+    },
+    {
+      "nom": "Writesonic AI 114",
+      "description": "Génération de contenu marketing",
+      "prix": "19€/mois",
+      "lien": "https://writesonic.com"
+    },
+    {
+      "nom": "Surfer SEO AI 862",
+      "description": "Optimisation SEO automatisée",
+      "prix": "49€/mois",
+      "lien": "https://surferseo.com"
+    },
+    {
+      "nom": "Surfer SEO AI 336",
+      "description": "Optimisation SEO automatisée",
+      "prix": "49€/mois",
+      "lien": "https://surferseo.com"
+    },
+    {
+      "nom": "Surfer SEO AI 49",
+      "description": "Optimisation SEO automatisée",
+      "prix": "49€/mois",
+      "lien": "https://surferseo.com"
+    },
+    {
+      "nom": "Writesonic AI 377",
+      "description": "Génération de contenu marketing",
+      "prix": "19€/mois",
+      "lien": "https://writesonic.com"
+    },
+    {
+      "nom": "Surfer SEO AI 756",
+      "description": "Optimisation SEO automatisée",
+      "prix": "49€/mois",
+      "lien": "https://surferseo.com"
+    },
+    {
+      "nom": "Surfer SEO AI 813",
+      "description": "Optimisation SEO automatisée",
+      "prix": "49€/mois",
+      "lien": "https://surferseo.com"
+    },
+    {
+      "nom": "Lumen5 AI 709",
+      "description": "Création de vidéos marketing avec IA",
+      "prix": "29€/mois",
+      "lien": "https://lumen5.com"
+    },
+    {
+      "nom": "Writesonic AI 120",
+      "description": "Génération de contenu marketing",
+      "prix": "19€/mois",
+      "lien": "https://writesonic.com"
+    },
+    {
+      "nom": "Surfer SEO AI 280",
+      "description": "Optimisation SEO automatisée",
+      "prix": "49€/mois",
+      "lien": "https://surferseo.com"
+    },
+    {
+      "nom": "Lumen5 AI 703",
+      "description": "Création de vidéos marketing avec IA",
+      "prix": "29€/mois",
+      "lien": "https://lumen5.com"
+    },
+    {
+      "nom": "Lumen5 AI 973",
+      "description": "Création de vidéos marketing avec IA",
+      "prix": "29€/mois",
+      "lien": "https://lumen5.com"
+    },
+    {
+      "nom": "Writesonic AI 475",
+      "description": "Génération de contenu marketing",
+      "prix": "19€/mois",
+      "lien": "https://writesonic.com"
+    },
+    {
+      "nom": "Lumen5 AI 327",
+      "description": "Création de vidéos marketing avec IA",
+      "prix": "29€/mois",
+      "lien": "https://lumen5.com"
+    },
+    {
+      "nom": "Surfer SEO AI 850",
+      "description": "Optimisation SEO automatisée",
+      "prix": "49€/mois",
+      "lien": "https://surferseo.com"
+    },
+    {
+      "nom": "Lumen5 AI 288",
+      "description": "Création de vidéos marketing avec IA",
+      "prix": "29€/mois",
+      "lien": "https://lumen5.com"
+    },
+    {
+      "nom": "Lumen5 AI 739",
+      "description": "Création de vidéos marketing avec IA",
+      "prix": "29€/mois",
+      "lien": "https://lumen5.com"
+    },
+    {
+      "nom": "Writesonic AI 171",
+      "description": "Génération de contenu marketing",
+      "prix": "19€/mois",
+      "lien": "https://writesonic.com"
+    },
+    {
+      "nom": "Writesonic AI 383",
+      "description": "Génération de contenu marketing",
+      "prix": "19€/mois",
+      "lien": "https://writesonic.com"
+    },
+    {
+      "nom": "Writesonic AI 906",
+      "description": "Génération de contenu marketing",
+      "prix": "19€/mois",
+      "lien": "https://writesonic.com"
+    }
+  ],
+  "gestion": [
+    {
+      "nom": "Asana AI AI 583",
+      "description": "Assistant IA pour projets et tâches",
+      "prix": "10€/mois",
+      "lien": "https://asana.com"
+    },
+    {
+      "nom": "Asana AI AI 193",
+      "description": "Assistant IA pour projets et tâches",
+      "prix": "10€/mois",
+      "lien": "https://asana.com"
+    },
+    {
+      "nom": "ClickUp AI AI 544",
+      "description": "Gestion de tâches et projets intelligente",
+      "prix": "5€/mois",
+      "lien": "https://clickup.com"
+    },
+    {
+      "nom": "Asana AI AI 193",
+      "description": "Assistant IA pour projets et tâches",
+      "prix": "10€/mois",
+      "lien": "https://asana.com"
+    },
+    {
+      "nom": "Trello AI AI 856",
+      "description": "Organisation visuelle avec IA",
+      "prix": "Free plan",
+      "lien": "https://trello.com"
+    },
+    {
+      "nom": "Trello AI AI 277",
+      "description": "Organisation visuelle avec IA",
+      "prix": "Free plan",
+      "lien": "https://trello.com"
+    },
+    {
+      "nom": "Asana AI AI 8",
+      "description": "Assistant IA pour projets et tâches",
+      "prix": "10€/mois",
+      "lien": "https://asana.com"
+    },
+    {
+      "nom": "Trello AI AI 678",
+      "description": "Organisation visuelle avec IA",
+      "prix": "Free plan",
+      "lien": "https://trello.com"
+    },
+    {
+      "nom": "Asana AI AI 64",
+      "description": "Assistant IA pour projets et tâches",
+      "prix": "10€/mois",
+      "lien": "https://asana.com"
+    },
+    {
+      "nom": "Asana AI AI 485",
+      "description": "Assistant IA pour projets et tâches",
+      "prix": "10€/mois",
+      "lien": "https://asana.com"
+    },
+    {
+      "nom": "Trello AI AI 539",
+      "description": "Organisation visuelle avec IA",
+      "prix": "Free plan",
+      "lien": "https://trello.com"
+    },
+    {
+      "nom": "Trello AI AI 382",
+      "description": "Organisation visuelle avec IA",
+      "prix": "Free plan",
+      "lien": "https://trello.com"
+    },
+    {
+      "nom": "Trello AI AI 829",
+      "description": "Organisation visuelle avec IA",
+      "prix": "Free plan",
+      "lien": "https://trello.com"
+    },
+    {
+      "nom": "Asana AI AI 737",
+      "description": "Assistant IA pour projets et tâches",
+      "prix": "10€/mois",
+      "lien": "https://asana.com"
+    },
+    {
+      "nom": "ClickUp AI AI 784",
+      "description": "Gestion de tâches et projets intelligente",
+      "prix": "5€/mois",
+      "lien": "https://clickup.com"
+    },
+    {
+      "nom": "Asana AI AI 458",
+      "description": "Assistant IA pour projets et tâches",
+      "prix": "10€/mois",
+      "lien": "https://asana.com"
+    },
+    {
+      "nom": "Asana AI AI 257",
+      "description": "Assistant IA pour projets et tâches",
+      "prix": "10€/mois",
+      "lien": "https://asana.com"
+    },
+    {
+      "nom": "Asana AI AI 990",
+      "description": "Assistant IA pour projets et tâches",
+      "prix": "10€/mois",
+      "lien": "https://asana.com"
+    },
+    {
+      "nom": "Asana AI AI 216",
+      "description": "Assistant IA pour projets et tâches",
+      "prix": "10€/mois",
+      "lien": "https://asana.com"
+    },
+    {
+      "nom": "Trello AI AI 138",
+      "description": "Organisation visuelle avec IA",
+      "prix": "Free plan",
+      "lien": "https://trello.com"
+    },
+    {
+      "nom": "ClickUp AI AI 240",
+      "description": "Gestion de tâches et projets intelligente",
+      "prix": "5€/mois",
+      "lien": "https://clickup.com"
+    },
+    {
+      "nom": "Asana AI AI 767",
+      "description": "Assistant IA pour projets et tâches",
+      "prix": "10€/mois",
+      "lien": "https://asana.com"
+    },
+    {
+      "nom": "ClickUp AI AI 984",
+      "description": "Gestion de tâches et projets intelligente",
+      "prix": "5€/mois",
+      "lien": "https://clickup.com"
+    },
+    {
+      "nom": "Asana AI AI 73",
+      "description": "Assistant IA pour projets et tâches",
+      "prix": "10€/mois",
+      "lien": "https://asana.com"
+    },
+    {
+      "nom": "Trello AI AI 871",
+      "description": "Organisation visuelle avec IA",
+      "prix": "Free plan",
+      "lien": "https://trello.com"
+    },
+    {
+      "nom": "Asana AI AI 749",
+      "description": "Assistant IA pour projets et tâches",
+      "prix": "10€/mois",
+      "lien": "https://asana.com"
+    },
+    {
+      "nom": "Asana AI AI 228",
+      "description": "Assistant IA pour projets et tâches",
+      "prix": "10€/mois",
+      "lien": "https://asana.com"
+    },
+    {
+      "nom": "Trello AI AI 250",
+      "description": "Organisation visuelle avec IA",
+      "prix": "Free plan",
+      "lien": "https://trello.com"
+    },
+    {
+      "nom": "ClickUp AI AI 751",
+      "description": "Gestion de tâches et projets intelligente",
+      "prix": "5€/mois",
+      "lien": "https://clickup.com"
+    },
+    {
+      "nom": "ClickUp AI AI 543",
+      "description": "Gestion de tâches et projets intelligente",
+      "prix": "5€/mois",
+      "lien": "https://clickup.com"
+    },
+    {
+      "nom": "Trello AI AI 55",
+      "description": "Organisation visuelle avec IA",
+      "prix": "Free plan",
+      "lien": "https://trello.com"
+    },
+    {
+      "nom": "Trello AI AI 963",
+      "description": "Organisation visuelle avec IA",
+      "prix": "Free plan",
+      "lien": "https://trello.com"
+    },
+    {
+      "nom": "Trello AI AI 911",
+      "description": "Organisation visuelle avec IA",
+      "prix": "Free plan",
+      "lien": "https://trello.com"
+    },
+    {
+      "nom": "ClickUp AI AI 999",
+      "description": "Gestion de tâches et projets intelligente",
+      "prix": "5€/mois",
+      "lien": "https://clickup.com"
+    },
+    {
+      "nom": "ClickUp AI AI 269",
+      "description": "Gestion de tâches et projets intelligente",
+      "prix": "5€/mois",
+      "lien": "https://clickup.com"
+    },
+    {
+      "nom": "Trello AI AI 395",
+      "description": "Organisation visuelle avec IA",
+      "prix": "Free plan",
+      "lien": "https://trello.com"
+    },
+    {
+      "nom": "ClickUp AI AI 289",
+      "description": "Gestion de tâches et projets intelligente",
+      "prix": "5€/mois",
+      "lien": "https://clickup.com"
+    },
+    {
+      "nom": "Asana AI AI 593",
+      "description": "Assistant IA pour projets et tâches",
+      "prix": "10€/mois",
+      "lien": "https://asana.com"
+    },
+    {
+      "nom": "Asana AI AI 5",
+      "description": "Assistant IA pour projets et tâches",
+      "prix": "10€/mois",
+      "lien": "https://asana.com"
+    },
+    {
+      "nom": "Asana AI AI 188",
+      "description": "Assistant IA pour projets et tâches",
+      "prix": "10€/mois",
+      "lien": "https://asana.com"
+    },
+    {
+      "nom": "Asana AI AI 421",
+      "description": "Assistant IA pour projets et tâches",
+      "prix": "10€/mois",
+      "lien": "https://asana.com"
+    },
+    {
+      "nom": "Asana AI AI 636",
+      "description": "Assistant IA pour projets et tâches",
+      "prix": "10€/mois",
+      "lien": "https://asana.com"
+    },
+    {
+      "nom": "Trello AI AI 206",
+      "description": "Organisation visuelle avec IA",
+      "prix": "Free plan",
+      "lien": "https://trello.com"
+    },
+    {
+      "nom": "Trello AI AI 706",
+      "description": "Organisation visuelle avec IA",
+      "prix": "Free plan",
+      "lien": "https://trello.com"
+    },
+    {
+      "nom": "ClickUp AI AI 557",
+      "description": "Gestion de tâches et projets intelligente",
+      "prix": "5€/mois",
+      "lien": "https://clickup.com"
+    },
+    {
+      "nom": "Asana AI AI 820",
+      "description": "Assistant IA pour projets et tâches",
+      "prix": "10€/mois",
+      "lien": "https://asana.com"
+    },
+    {
+      "nom": "ClickUp AI AI 374",
+      "description": "Gestion de tâches et projets intelligente",
+      "prix": "5€/mois",
+      "lien": "https://clickup.com"
+    },
+    {
+      "nom": "Trello AI AI 36",
+      "description": "Organisation visuelle avec IA",
+      "prix": "Free plan",
+      "lien": "https://trello.com"
+    },
+    {
+      "nom": "Trello AI AI 586",
+      "description": "Organisation visuelle avec IA",
+      "prix": "Free plan",
+      "lien": "https://trello.com"
+    },
+    {
+      "nom": "Trello AI AI 296",
+      "description": "Organisation visuelle avec IA",
+      "prix": "Free plan",
+      "lien": "https://trello.com"
+    },
+    {
+      "nom": "Trello AI AI 216",
+      "description": "Organisation visuelle avec IA",
+      "prix": "Free plan",
+      "lien": "https://trello.com"
+    },
+    {
+      "nom": "ClickUp AI AI 386",
+      "description": "Gestion de tâches et projets intelligente",
+      "prix": "5€/mois",
+      "lien": "https://clickup.com"
+    },
+    {
+      "nom": "Trello AI AI 796",
+      "description": "Organisation visuelle avec IA",
+      "prix": "Free plan",
+      "lien": "https://trello.com"
+    },
+    {
+      "nom": "Asana AI AI 937",
+      "description": "Assistant IA pour projets et tâches",
+      "prix": "10€/mois",
+      "lien": "https://asana.com"
+    },
+    {
+      "nom": "Trello AI AI 761",
+      "description": "Organisation visuelle avec IA",
+      "prix": "Free plan",
+      "lien": "https://trello.com"
+    },
+    {
+      "nom": "Asana AI AI 998",
+      "description": "Assistant IA pour projets et tâches",
+      "prix": "10€/mois",
+      "lien": "https://asana.com"
+    },
+    {
+      "nom": "Trello AI AI 309",
+      "description": "Organisation visuelle avec IA",
+      "prix": "Free plan",
+      "lien": "https://trello.com"
+    },
+    {
+      "nom": "ClickUp AI AI 249",
+      "description": "Gestion de tâches et projets intelligente",
+      "prix": "5€/mois",
+      "lien": "https://clickup.com"
+    },
+    {
+      "nom": "Asana AI AI 442",
+      "description": "Assistant IA pour projets et tâches",
+      "prix": "10€/mois",
+      "lien": "https://asana.com"
+    },
+    {
+      "nom": "Trello AI AI 658",
+      "description": "Organisation visuelle avec IA",
+      "prix": "Free plan",
+      "lien": "https://trello.com"
+    },
+    {
+      "nom": "Trello AI AI 675",
+      "description": "Organisation visuelle avec IA",
+      "prix": "Free plan",
+      "lien": "https://trello.com"
+    },
+    {
+      "nom": "Asana AI AI 910",
+      "description": "Assistant IA pour projets et tâches",
+      "prix": "10€/mois",
+      "lien": "https://asana.com"
+    },
+    {
+      "nom": "ClickUp AI AI 370",
+      "description": "Gestion de tâches et projets intelligente",
+      "prix": "5€/mois",
+      "lien": "https://clickup.com"
+    },
+    {
+      "nom": "Trello AI AI 232",
+      "description": "Organisation visuelle avec IA",
+      "prix": "Free plan",
+      "lien": "https://trello.com"
+    },
+    {
+      "nom": "Trello AI AI 517",
+      "description": "Organisation visuelle avec IA",
+      "prix": "Free plan",
+      "lien": "https://trello.com"
+    },
+    {
+      "nom": "Asana AI AI 673",
+      "description": "Assistant IA pour projets et tâches",
+      "prix": "10€/mois",
+      "lien": "https://asana.com"
+    },
+    {
+      "nom": "Trello AI AI 139",
+      "description": "Organisation visuelle avec IA",
+      "prix": "Free plan",
+      "lien": "https://trello.com"
+    },
+    {
+      "nom": "ClickUp AI AI 914",
+      "description": "Gestion de tâches et projets intelligente",
+      "prix": "5€/mois",
+      "lien": "https://clickup.com"
+    },
+    {
+      "nom": "Asana AI AI 141",
+      "description": "Assistant IA pour projets et tâches",
+      "prix": "10€/mois",
+      "lien": "https://asana.com"
+    },
+    {
+      "nom": "Asana AI AI 626",
+      "description": "Assistant IA pour projets et tâches",
+      "prix": "10€/mois",
+      "lien": "https://asana.com"
+    },
+    {
+      "nom": "Trello AI AI 421",
+      "description": "Organisation visuelle avec IA",
+      "prix": "Free plan",
+      "lien": "https://trello.com"
+    },
+    {
+      "nom": "ClickUp AI AI 859",
+      "description": "Gestion de tâches et projets intelligente",
+      "prix": "5€/mois",
+      "lien": "https://clickup.com"
+    },
+    {
+      "nom": "ClickUp AI AI 997",
+      "description": "Gestion de tâches et projets intelligente",
+      "prix": "5€/mois",
+      "lien": "https://clickup.com"
+    },
+    {
+      "nom": "ClickUp AI AI 241",
+      "description": "Gestion de tâches et projets intelligente",
+      "prix": "5€/mois",
+      "lien": "https://clickup.com"
+    },
+    {
+      "nom": "Asana AI AI 672",
+      "description": "Assistant IA pour projets et tâches",
+      "prix": "10€/mois",
+      "lien": "https://asana.com"
+    },
+    {
+      "nom": "ClickUp AI AI 862",
+      "description": "Gestion de tâches et projets intelligente",
+      "prix": "5€/mois",
+      "lien": "https://clickup.com"
+    },
+    {
+      "nom": "Asana AI AI 903",
+      "description": "Assistant IA pour projets et tâches",
+      "prix": "10€/mois",
+      "lien": "https://asana.com"
+    },
+    {
+      "nom": "ClickUp AI AI 496",
+      "description": "Gestion de tâches et projets intelligente",
+      "prix": "5€/mois",
+      "lien": "https://clickup.com"
+    },
+    {
+      "nom": "ClickUp AI AI 304",
+      "description": "Gestion de tâches et projets intelligente",
+      "prix": "5€/mois",
+      "lien": "https://clickup.com"
+    },
+    {
+      "nom": "Trello AI AI 615",
+      "description": "Organisation visuelle avec IA",
+      "prix": "Free plan",
+      "lien": "https://trello.com"
+    },
+    {
+      "nom": "ClickUp AI AI 741",
+      "description": "Gestion de tâches et projets intelligente",
+      "prix": "5€/mois",
+      "lien": "https://clickup.com"
+    },
+    {
+      "nom": "Trello AI AI 291",
+      "description": "Organisation visuelle avec IA",
+      "prix": "Free plan",
+      "lien": "https://trello.com"
+    },
+    {
+      "nom": "Asana AI AI 265",
+      "description": "Assistant IA pour projets et tâches",
+      "prix": "10€/mois",
+      "lien": "https://asana.com"
+    },
+    {
+      "nom": "ClickUp AI AI 478",
+      "description": "Gestion de tâches et projets intelligente",
+      "prix": "5€/mois",
+      "lien": "https://clickup.com"
+    },
+    {
+      "nom": "Asana AI AI 889",
+      "description": "Assistant IA pour projets et tâches",
+      "prix": "10€/mois",
+      "lien": "https://asana.com"
+    },
+    {
+      "nom": "ClickUp AI AI 583",
+      "description": "Gestion de tâches et projets intelligente",
+      "prix": "5€/mois",
+      "lien": "https://clickup.com"
+    },
+    {
+      "nom": "ClickUp AI AI 26",
+      "description": "Gestion de tâches et projets intelligente",
+      "prix": "5€/mois",
+      "lien": "https://clickup.com"
+    },
+    {
+      "nom": "Asana AI AI 413",
+      "description": "Assistant IA pour projets et tâches",
+      "prix": "10€/mois",
+      "lien": "https://asana.com"
+    },
+    {
+      "nom": "ClickUp AI AI 327",
+      "description": "Gestion de tâches et projets intelligente",
+      "prix": "5€/mois",
+      "lien": "https://clickup.com"
+    },
+    {
+      "nom": "Asana AI AI 661",
+      "description": "Assistant IA pour projets et tâches",
+      "prix": "10€/mois",
+      "lien": "https://asana.com"
+    },
+    {
+      "nom": "Trello AI AI 653",
+      "description": "Organisation visuelle avec IA",
+      "prix": "Free plan",
+      "lien": "https://trello.com"
+    },
+    {
+      "nom": "ClickUp AI AI 499",
+      "description": "Gestion de tâches et projets intelligente",
+      "prix": "5€/mois",
+      "lien": "https://clickup.com"
+    },
+    {
+      "nom": "ClickUp AI AI 489",
+      "description": "Gestion de tâches et projets intelligente",
+      "prix": "5€/mois",
+      "lien": "https://clickup.com"
+    },
+    {
+      "nom": "Asana AI AI 840",
+      "description": "Assistant IA pour projets et tâches",
+      "prix": "10€/mois",
+      "lien": "https://asana.com"
+    },
+    {
+      "nom": "Asana AI AI 755",
+      "description": "Assistant IA pour projets et tâches",
+      "prix": "10€/mois",
+      "lien": "https://asana.com"
+    },
+    {
+      "nom": "Trello AI AI 789",
+      "description": "Organisation visuelle avec IA",
+      "prix": "Free plan",
+      "lien": "https://trello.com"
+    },
+    {
+      "nom": "ClickUp AI AI 992",
+      "description": "Gestion de tâches et projets intelligente",
+      "prix": "5€/mois",
+      "lien": "https://clickup.com"
+    },
+    {
+      "nom": "Asana AI AI 35",
+      "description": "Assistant IA pour projets et tâches",
+      "prix": "10€/mois",
+      "lien": "https://asana.com"
+    },
+    {
+      "nom": "ClickUp AI AI 845",
+      "description": "Gestion de tâches et projets intelligente",
+      "prix": "5€/mois",
+      "lien": "https://clickup.com"
+    },
+    {
+      "nom": "Asana AI AI 781",
+      "description": "Assistant IA pour projets et tâches",
+      "prix": "10€/mois",
+      "lien": "https://asana.com"
+    }
+  ],
+  "analyse": [
+    {
+      "nom": "Sisense AI 992",
+      "description": "Analytique et BI embarquée",
+      "prix": "Sur devis",
+      "lien": "https://sisense.com"
+    },
+    {
+      "nom": "Looker Studio AI 162",
+      "description": "Visualisation avancée de données",
+      "prix": "Gratuit",
+      "lien": "https://lookerstudio.google.com"
+    },
+    {
+      "nom": "Sisense AI 584",
+      "description": "Analytique et BI embarquée",
+      "prix": "Sur devis",
+      "lien": "https://sisense.com"
+    },
+    {
+      "nom": "Looker Studio AI 851",
+      "description": "Visualisation avancée de données",
+      "prix": "Gratuit",
+      "lien": "https://lookerstudio.google.com"
+    },
+    {
+      "nom": "Qlik Sense AI 793",
+      "description": "Analyse et reporting augmentés",
+      "prix": "Sur devis",
+      "lien": "https://qlik.com"
+    },
+    {
+      "nom": "Sisense AI 435",
+      "description": "Analytique et BI embarquée",
+      "prix": "Sur devis",
+      "lien": "https://sisense.com"
+    },
+    {
+      "nom": "Qlik Sense AI 867",
+      "description": "Analyse et reporting augmentés",
+      "prix": "Sur devis",
+      "lien": "https://qlik.com"
+    },
+    {
+      "nom": "Qlik Sense AI 135",
+      "description": "Analyse et reporting augmentés",
+      "prix": "Sur devis",
+      "lien": "https://qlik.com"
+    },
+    {
+      "nom": "Sisense AI 525",
+      "description": "Analytique et BI embarquée",
+      "prix": "Sur devis",
+      "lien": "https://sisense.com"
+    },
+    {
+      "nom": "Qlik Sense AI 919",
+      "description": "Analyse et reporting augmentés",
+      "prix": "Sur devis",
+      "lien": "https://qlik.com"
+    },
+    {
+      "nom": "Qlik Sense AI 421",
+      "description": "Analyse et reporting augmentés",
+      "prix": "Sur devis",
+      "lien": "https://qlik.com"
+    },
+    {
+      "nom": "Sisense AI 939",
+      "description": "Analytique et BI embarquée",
+      "prix": "Sur devis",
+      "lien": "https://sisense.com"
+    },
+    {
+      "nom": "Sisense AI 150",
+      "description": "Analytique et BI embarquée",
+      "prix": "Sur devis",
+      "lien": "https://sisense.com"
+    },
+    {
+      "nom": "Sisense AI 527",
+      "description": "Analytique et BI embarquée",
+      "prix": "Sur devis",
+      "lien": "https://sisense.com"
+    },
+    {
+      "nom": "Qlik Sense AI 86",
+      "description": "Analyse et reporting augmentés",
+      "prix": "Sur devis",
+      "lien": "https://qlik.com"
+    },
+    {
+      "nom": "Looker Studio AI 936",
+      "description": "Visualisation avancée de données",
+      "prix": "Gratuit",
+      "lien": "https://lookerstudio.google.com"
+    },
+    {
+      "nom": "Sisense AI 15",
+      "description": "Analytique et BI embarquée",
+      "prix": "Sur devis",
+      "lien": "https://sisense.com"
+    },
+    {
+      "nom": "Looker Studio AI 719",
+      "description": "Visualisation avancée de données",
+      "prix": "Gratuit",
+      "lien": "https://lookerstudio.google.com"
+    },
+    {
+      "nom": "Looker Studio AI 888",
+      "description": "Visualisation avancée de données",
+      "prix": "Gratuit",
+      "lien": "https://lookerstudio.google.com"
+    },
+    {
+      "nom": "Looker Studio AI 511",
+      "description": "Visualisation avancée de données",
+      "prix": "Gratuit",
+      "lien": "https://lookerstudio.google.com"
+    },
+    {
+      "nom": "Looker Studio AI 994",
+      "description": "Visualisation avancée de données",
+      "prix": "Gratuit",
+      "lien": "https://lookerstudio.google.com"
+    },
+    {
+      "nom": "Sisense AI 307",
+      "description": "Analytique et BI embarquée",
+      "prix": "Sur devis",
+      "lien": "https://sisense.com"
+    },
+    {
+      "nom": "Qlik Sense AI 631",
+      "description": "Analyse et reporting augmentés",
+      "prix": "Sur devis",
+      "lien": "https://qlik.com"
+    },
+    {
+      "nom": "Looker Studio AI 289",
+      "description": "Visualisation avancée de données",
+      "prix": "Gratuit",
+      "lien": "https://lookerstudio.google.com"
+    },
+    {
+      "nom": "Sisense AI 9",
+      "description": "Analytique et BI embarquée",
+      "prix": "Sur devis",
+      "lien": "https://sisense.com"
+    },
+    {
+      "nom": "Qlik Sense AI 150",
+      "description": "Analyse et reporting augmentés",
+      "prix": "Sur devis",
+      "lien": "https://qlik.com"
+    },
+    {
+      "nom": "Qlik Sense AI 446",
+      "description": "Analyse et reporting augmentés",
+      "prix": "Sur devis",
+      "lien": "https://qlik.com"
+    },
+    {
+      "nom": "Looker Studio AI 591",
+      "description": "Visualisation avancée de données",
+      "prix": "Gratuit",
+      "lien": "https://lookerstudio.google.com"
+    },
+    {
+      "nom": "Qlik Sense AI 857",
+      "description": "Analyse et reporting augmentés",
+      "prix": "Sur devis",
+      "lien": "https://qlik.com"
+    },
+    {
+      "nom": "Looker Studio AI 34",
+      "description": "Visualisation avancée de données",
+      "prix": "Gratuit",
+      "lien": "https://lookerstudio.google.com"
+    },
+    {
+      "nom": "Sisense AI 766",
+      "description": "Analytique et BI embarquée",
+      "prix": "Sur devis",
+      "lien": "https://sisense.com"
+    },
+    {
+      "nom": "Qlik Sense AI 579",
+      "description": "Analyse et reporting augmentés",
+      "prix": "Sur devis",
+      "lien": "https://qlik.com"
+    },
+    {
+      "nom": "Looker Studio AI 537",
+      "description": "Visualisation avancée de données",
+      "prix": "Gratuit",
+      "lien": "https://lookerstudio.google.com"
+    },
+    {
+      "nom": "Sisense AI 908",
+      "description": "Analytique et BI embarquée",
+      "prix": "Sur devis",
+      "lien": "https://sisense.com"
+    },
+    {
+      "nom": "Looker Studio AI 975",
+      "description": "Visualisation avancée de données",
+      "prix": "Gratuit",
+      "lien": "https://lookerstudio.google.com"
+    },
+    {
+      "nom": "Sisense AI 189",
+      "description": "Analytique et BI embarquée",
+      "prix": "Sur devis",
+      "lien": "https://sisense.com"
+    },
+    {
+      "nom": "Sisense AI 37",
+      "description": "Analytique et BI embarquée",
+      "prix": "Sur devis",
+      "lien": "https://sisense.com"
+    },
+    {
+      "nom": "Qlik Sense AI 47",
+      "description": "Analyse et reporting augmentés",
+      "prix": "Sur devis",
+      "lien": "https://qlik.com"
+    },
+    {
+      "nom": "Qlik Sense AI 466",
+      "description": "Analyse et reporting augmentés",
+      "prix": "Sur devis",
+      "lien": "https://qlik.com"
+    },
+    {
+      "nom": "Looker Studio AI 392",
+      "description": "Visualisation avancée de données",
+      "prix": "Gratuit",
+      "lien": "https://lookerstudio.google.com"
+    },
+    {
+      "nom": "Sisense AI 532",
+      "description": "Analytique et BI embarquée",
+      "prix": "Sur devis",
+      "lien": "https://sisense.com"
+    },
+    {
+      "nom": "Looker Studio AI 332",
+      "description": "Visualisation avancée de données",
+      "prix": "Gratuit",
+      "lien": "https://lookerstudio.google.com"
+    },
+    {
+      "nom": "Sisense AI 949",
+      "description": "Analytique et BI embarquée",
+      "prix": "Sur devis",
+      "lien": "https://sisense.com"
+    },
+    {
+      "nom": "Qlik Sense AI 105",
+      "description": "Analyse et reporting augmentés",
+      "prix": "Sur devis",
+      "lien": "https://qlik.com"
+    },
+    {
+      "nom": "Sisense AI 392",
+      "description": "Analytique et BI embarquée",
+      "prix": "Sur devis",
+      "lien": "https://sisense.com"
+    },
+    {
+      "nom": "Qlik Sense AI 481",
+      "description": "Analyse et reporting augmentés",
+      "prix": "Sur devis",
+      "lien": "https://qlik.com"
+    },
+    {
+      "nom": "Looker Studio AI 821",
+      "description": "Visualisation avancée de données",
+      "prix": "Gratuit",
+      "lien": "https://lookerstudio.google.com"
+    },
+    {
+      "nom": "Sisense AI 259",
+      "description": "Analytique et BI embarquée",
+      "prix": "Sur devis",
+      "lien": "https://sisense.com"
+    },
+    {
+      "nom": "Looker Studio AI 611",
+      "description": "Visualisation avancée de données",
+      "prix": "Gratuit",
+      "lien": "https://lookerstudio.google.com"
+    },
+    {
+      "nom": "Sisense AI 97",
+      "description": "Analytique et BI embarquée",
+      "prix": "Sur devis",
+      "lien": "https://sisense.com"
+    },
+    {
+      "nom": "Sisense AI 53",
+      "description": "Analytique et BI embarquée",
+      "prix": "Sur devis",
+      "lien": "https://sisense.com"
+    },
+    {
+      "nom": "Sisense AI 13",
+      "description": "Analytique et BI embarquée",
+      "prix": "Sur devis",
+      "lien": "https://sisense.com"
+    },
+    {
+      "nom": "Qlik Sense AI 119",
+      "description": "Analyse et reporting augmentés",
+      "prix": "Sur devis",
+      "lien": "https://qlik.com"
+    },
+    {
+      "nom": "Qlik Sense AI 213",
+      "description": "Analyse et reporting augmentés",
+      "prix": "Sur devis",
+      "lien": "https://qlik.com"
+    },
+    {
+      "nom": "Sisense AI 808",
+      "description": "Analytique et BI embarquée",
+      "prix": "Sur devis",
+      "lien": "https://sisense.com"
+    },
+    {
+      "nom": "Looker Studio AI 108",
+      "description": "Visualisation avancée de données",
+      "prix": "Gratuit",
+      "lien": "https://lookerstudio.google.com"
+    },
+    {
+      "nom": "Qlik Sense AI 457",
+      "description": "Analyse et reporting augmentés",
+      "prix": "Sur devis",
+      "lien": "https://qlik.com"
+    },
+    {
+      "nom": "Sisense AI 14",
+      "description": "Analytique et BI embarquée",
+      "prix": "Sur devis",
+      "lien": "https://sisense.com"
+    },
+    {
+      "nom": "Looker Studio AI 387",
+      "description": "Visualisation avancée de données",
+      "prix": "Gratuit",
+      "lien": "https://lookerstudio.google.com"
+    },
+    {
+      "nom": "Looker Studio AI 820",
+      "description": "Visualisation avancée de données",
+      "prix": "Gratuit",
+      "lien": "https://lookerstudio.google.com"
+    },
+    {
+      "nom": "Looker Studio AI 459",
+      "description": "Visualisation avancée de données",
+      "prix": "Gratuit",
+      "lien": "https://lookerstudio.google.com"
+    },
+    {
+      "nom": "Sisense AI 727",
+      "description": "Analytique et BI embarquée",
+      "prix": "Sur devis",
+      "lien": "https://sisense.com"
+    },
+    {
+      "nom": "Qlik Sense AI 297",
+      "description": "Analyse et reporting augmentés",
+      "prix": "Sur devis",
+      "lien": "https://qlik.com"
+    },
+    {
+      "nom": "Qlik Sense AI 886",
+      "description": "Analyse et reporting augmentés",
+      "prix": "Sur devis",
+      "lien": "https://qlik.com"
+    },
+    {
+      "nom": "Qlik Sense AI 117",
+      "description": "Analyse et reporting augmentés",
+      "prix": "Sur devis",
+      "lien": "https://qlik.com"
+    },
+    {
+      "nom": "Sisense AI 952",
+      "description": "Analytique et BI embarquée",
+      "prix": "Sur devis",
+      "lien": "https://sisense.com"
+    },
+    {
+      "nom": "Looker Studio AI 528",
+      "description": "Visualisation avancée de données",
+      "prix": "Gratuit",
+      "lien": "https://lookerstudio.google.com"
+    },
+    {
+      "nom": "Looker Studio AI 429",
+      "description": "Visualisation avancée de données",
+      "prix": "Gratuit",
+      "lien": "https://lookerstudio.google.com"
+    },
+    {
+      "nom": "Qlik Sense AI 869",
+      "description": "Analyse et reporting augmentés",
+      "prix": "Sur devis",
+      "lien": "https://qlik.com"
+    },
+    {
+      "nom": "Sisense AI 320",
+      "description": "Analytique et BI embarquée",
+      "prix": "Sur devis",
+      "lien": "https://sisense.com"
+    },
+    {
+      "nom": "Qlik Sense AI 657",
+      "description": "Analyse et reporting augmentés",
+      "prix": "Sur devis",
+      "lien": "https://qlik.com"
+    },
+    {
+      "nom": "Sisense AI 138",
+      "description": "Analytique et BI embarquée",
+      "prix": "Sur devis",
+      "lien": "https://sisense.com"
+    },
+    {
+      "nom": "Looker Studio AI 650",
+      "description": "Visualisation avancée de données",
+      "prix": "Gratuit",
+      "lien": "https://lookerstudio.google.com"
+    },
+    {
+      "nom": "Sisense AI 852",
+      "description": "Analytique et BI embarquée",
+      "prix": "Sur devis",
+      "lien": "https://sisense.com"
+    },
+    {
+      "nom": "Looker Studio AI 11",
+      "description": "Visualisation avancée de données",
+      "prix": "Gratuit",
+      "lien": "https://lookerstudio.google.com"
+    },
+    {
+      "nom": "Looker Studio AI 941",
+      "description": "Visualisation avancée de données",
+      "prix": "Gratuit",
+      "lien": "https://lookerstudio.google.com"
+    },
+    {
+      "nom": "Looker Studio AI 376",
+      "description": "Visualisation avancée de données",
+      "prix": "Gratuit",
+      "lien": "https://lookerstudio.google.com"
+    },
+    {
+      "nom": "Sisense AI 476",
+      "description": "Analytique et BI embarquée",
+      "prix": "Sur devis",
+      "lien": "https://sisense.com"
+    },
+    {
+      "nom": "Qlik Sense AI 22",
+      "description": "Analyse et reporting augmentés",
+      "prix": "Sur devis",
+      "lien": "https://qlik.com"
+    },
+    {
+      "nom": "Sisense AI 850",
+      "description": "Analytique et BI embarquée",
+      "prix": "Sur devis",
+      "lien": "https://sisense.com"
+    },
+    {
+      "nom": "Qlik Sense AI 215",
+      "description": "Analyse et reporting augmentés",
+      "prix": "Sur devis",
+      "lien": "https://qlik.com"
+    },
+    {
+      "nom": "Looker Studio AI 103",
+      "description": "Visualisation avancée de données",
+      "prix": "Gratuit",
+      "lien": "https://lookerstudio.google.com"
+    },
+    {
+      "nom": "Looker Studio AI 711",
+      "description": "Visualisation avancée de données",
+      "prix": "Gratuit",
+      "lien": "https://lookerstudio.google.com"
+    },
+    {
+      "nom": "Qlik Sense AI 450",
+      "description": "Analyse et reporting augmentés",
+      "prix": "Sur devis",
+      "lien": "https://qlik.com"
+    },
+    {
+      "nom": "Sisense AI 540",
+      "description": "Analytique et BI embarquée",
+      "prix": "Sur devis",
+      "lien": "https://sisense.com"
+    },
+    {
+      "nom": "Looker Studio AI 553",
+      "description": "Visualisation avancée de données",
+      "prix": "Gratuit",
+      "lien": "https://lookerstudio.google.com"
+    },
+    {
+      "nom": "Sisense AI 184",
+      "description": "Analytique et BI embarquée",
+      "prix": "Sur devis",
+      "lien": "https://sisense.com"
+    },
+    {
+      "nom": "Sisense AI 598",
+      "description": "Analytique et BI embarquée",
+      "prix": "Sur devis",
+      "lien": "https://sisense.com"
+    },
+    {
+      "nom": "Sisense AI 471",
+      "description": "Analytique et BI embarquée",
+      "prix": "Sur devis",
+      "lien": "https://sisense.com"
+    },
+    {
+      "nom": "Looker Studio AI 637",
+      "description": "Visualisation avancée de données",
+      "prix": "Gratuit",
+      "lien": "https://lookerstudio.google.com"
+    },
+    {
+      "nom": "Looker Studio AI 339",
+      "description": "Visualisation avancée de données",
+      "prix": "Gratuit",
+      "lien": "https://lookerstudio.google.com"
+    },
+    {
+      "nom": "Looker Studio AI 684",
+      "description": "Visualisation avancée de données",
+      "prix": "Gratuit",
+      "lien": "https://lookerstudio.google.com"
+    },
+    {
+      "nom": "Sisense AI 392",
+      "description": "Analytique et BI embarquée",
+      "prix": "Sur devis",
+      "lien": "https://sisense.com"
+    },
+    {
+      "nom": "Sisense AI 978",
+      "description": "Analytique et BI embarquée",
+      "prix": "Sur devis",
+      "lien": "https://sisense.com"
+    },
+    {
+      "nom": "Looker Studio AI 104",
+      "description": "Visualisation avancée de données",
+      "prix": "Gratuit",
+      "lien": "https://lookerstudio.google.com"
+    },
+    {
+      "nom": "Qlik Sense AI 771",
+      "description": "Analyse et reporting augmentés",
+      "prix": "Sur devis",
+      "lien": "https://qlik.com"
+    },
+    {
+      "nom": "Sisense AI 906",
+      "description": "Analytique et BI embarquée",
+      "prix": "Sur devis",
+      "lien": "https://sisense.com"
+    },
+    {
+      "nom": "Looker Studio AI 914",
+      "description": "Visualisation avancée de données",
+      "prix": "Gratuit",
+      "lien": "https://lookerstudio.google.com"
+    },
+    {
+      "nom": "Sisense AI 760",
+      "description": "Analytique et BI embarquée",
+      "prix": "Sur devis",
+      "lien": "https://sisense.com"
+    },
+    {
+      "nom": "Qlik Sense AI 610",
+      "description": "Analyse et reporting augmentés",
+      "prix": "Sur devis",
+      "lien": "https://qlik.com"
+    }
+  ],
+  "recrutement": [
+    {
+      "nom": "Eightfold AI AI 12",
+      "description": "IA pour le recrutement prédictif",
+      "prix": "Sur devis",
+      "lien": "https://eightfold.ai"
+    },
+    {
+      "nom": "Eightfold AI AI 815",
+      "description": "IA pour le recrutement prédictif",
+      "prix": "Sur devis",
+      "lien": "https://eightfold.ai"
+    },
+    {
+      "nom": "Eightfold AI AI 919",
+      "description": "IA pour le recrutement prédictif",
+      "prix": "Sur devis",
+      "lien": "https://eightfold.ai"
+    },
+    {
+      "nom": "Talent.io AI 538",
+      "description": "Matching de profils tech avec IA",
+      "prix": "Sur devis",
+      "lien": "https://talent.io"
+    },
+    {
+      "nom": "Talent.io AI 15",
+      "description": "Matching de profils tech avec IA",
+      "prix": "Sur devis",
+      "lien": "https://talent.io"
+    },
+    {
+      "nom": "Eightfold AI AI 230",
+      "description": "IA pour le recrutement prédictif",
+      "prix": "Sur devis",
+      "lien": "https://eightfold.ai"
+    },
+    {
+      "nom": "Recruitee AI 632",
+      "description": "ATS avec capacités IA",
+      "prix": "109€/mois",
+      "lien": "https://recruitee.com"
+    },
+    {
+      "nom": "Talent.io AI 973",
+      "description": "Matching de profils tech avec IA",
+      "prix": "Sur devis",
+      "lien": "https://talent.io"
+    },
+    {
+      "nom": "Recruitee AI 414",
+      "description": "ATS avec capacités IA",
+      "prix": "109€/mois",
+      "lien": "https://recruitee.com"
+    },
+    {
+      "nom": "Eightfold AI AI 790",
+      "description": "IA pour le recrutement prédictif",
+      "prix": "Sur devis",
+      "lien": "https://eightfold.ai"
+    },
+    {
+      "nom": "Recruitee AI 347",
+      "description": "ATS avec capacités IA",
+      "prix": "109€/mois",
+      "lien": "https://recruitee.com"
+    },
+    {
+      "nom": "Recruitee AI 913",
+      "description": "ATS avec capacités IA",
+      "prix": "109€/mois",
+      "lien": "https://recruitee.com"
+    },
+    {
+      "nom": "Recruitee AI 389",
+      "description": "ATS avec capacités IA",
+      "prix": "109€/mois",
+      "lien": "https://recruitee.com"
+    },
+    {
+      "nom": "Eightfold AI AI 760",
+      "description": "IA pour le recrutement prédictif",
+      "prix": "Sur devis",
+      "lien": "https://eightfold.ai"
+    },
+    {
+      "nom": "Eightfold AI AI 780",
+      "description": "IA pour le recrutement prédictif",
+      "prix": "Sur devis",
+      "lien": "https://eightfold.ai"
+    },
+    {
+      "nom": "Recruitee AI 571",
+      "description": "ATS avec capacités IA",
+      "prix": "109€/mois",
+      "lien": "https://recruitee.com"
+    },
+    {
+      "nom": "Recruitee AI 800",
+      "description": "ATS avec capacités IA",
+      "prix": "109€/mois",
+      "lien": "https://recruitee.com"
+    },
+    {
+      "nom": "Talent.io AI 756",
+      "description": "Matching de profils tech avec IA",
+      "prix": "Sur devis",
+      "lien": "https://talent.io"
+    },
+    {
+      "nom": "Eightfold AI AI 222",
+      "description": "IA pour le recrutement prédictif",
+      "prix": "Sur devis",
+      "lien": "https://eightfold.ai"
+    },
+    {
+      "nom": "Talent.io AI 960",
+      "description": "Matching de profils tech avec IA",
+      "prix": "Sur devis",
+      "lien": "https://talent.io"
+    },
+    {
+      "nom": "Talent.io AI 402",
+      "description": "Matching de profils tech avec IA",
+      "prix": "Sur devis",
+      "lien": "https://talent.io"
+    },
+    {
+      "nom": "Recruitee AI 792",
+      "description": "ATS avec capacités IA",
+      "prix": "109€/mois",
+      "lien": "https://recruitee.com"
+    },
+    {
+      "nom": "Eightfold AI AI 670",
+      "description": "IA pour le recrutement prédictif",
+      "prix": "Sur devis",
+      "lien": "https://eightfold.ai"
+    },
+    {
+      "nom": "Talent.io AI 469",
+      "description": "Matching de profils tech avec IA",
+      "prix": "Sur devis",
+      "lien": "https://talent.io"
+    },
+    {
+      "nom": "Recruitee AI 170",
+      "description": "ATS avec capacités IA",
+      "prix": "109€/mois",
+      "lien": "https://recruitee.com"
+    },
+    {
+      "nom": "Recruitee AI 84",
+      "description": "ATS avec capacités IA",
+      "prix": "109€/mois",
+      "lien": "https://recruitee.com"
+    },
+    {
+      "nom": "Recruitee AI 677",
+      "description": "ATS avec capacités IA",
+      "prix": "109€/mois",
+      "lien": "https://recruitee.com"
+    },
+    {
+      "nom": "Talent.io AI 170",
+      "description": "Matching de profils tech avec IA",
+      "prix": "Sur devis",
+      "lien": "https://talent.io"
+    },
+    {
+      "nom": "Talent.io AI 926",
+      "description": "Matching de profils tech avec IA",
+      "prix": "Sur devis",
+      "lien": "https://talent.io"
+    },
+    {
+      "nom": "Recruitee AI 949",
+      "description": "ATS avec capacités IA",
+      "prix": "109€/mois",
+      "lien": "https://recruitee.com"
+    },
+    {
+      "nom": "Recruitee AI 518",
+      "description": "ATS avec capacités IA",
+      "prix": "109€/mois",
+      "lien": "https://recruitee.com"
+    },
+    {
+      "nom": "Talent.io AI 655",
+      "description": "Matching de profils tech avec IA",
+      "prix": "Sur devis",
+      "lien": "https://talent.io"
+    },
+    {
+      "nom": "Recruitee AI 647",
+      "description": "ATS avec capacités IA",
+      "prix": "109€/mois",
+      "lien": "https://recruitee.com"
+    },
+    {
+      "nom": "Talent.io AI 189",
+      "description": "Matching de profils tech avec IA",
+      "prix": "Sur devis",
+      "lien": "https://talent.io"
+    },
+    {
+      "nom": "Recruitee AI 407",
+      "description": "ATS avec capacités IA",
+      "prix": "109€/mois",
+      "lien": "https://recruitee.com"
+    },
+    {
+      "nom": "Recruitee AI 613",
+      "description": "ATS avec capacités IA",
+      "prix": "109€/mois",
+      "lien": "https://recruitee.com"
+    },
+    {
+      "nom": "Talent.io AI 365",
+      "description": "Matching de profils tech avec IA",
+      "prix": "Sur devis",
+      "lien": "https://talent.io"
+    },
+    {
+      "nom": "Recruitee AI 74",
+      "description": "ATS avec capacités IA",
+      "prix": "109€/mois",
+      "lien": "https://recruitee.com"
+    },
+    {
+      "nom": "Talent.io AI 549",
+      "description": "Matching de profils tech avec IA",
+      "prix": "Sur devis",
+      "lien": "https://talent.io"
+    },
+    {
+      "nom": "Talent.io AI 954",
+      "description": "Matching de profils tech avec IA",
+      "prix": "Sur devis",
+      "lien": "https://talent.io"
+    },
+    {
+      "nom": "Eightfold AI AI 842",
+      "description": "IA pour le recrutement prédictif",
+      "prix": "Sur devis",
+      "lien": "https://eightfold.ai"
+    },
+    {
+      "nom": "Recruitee AI 704",
+      "description": "ATS avec capacités IA",
+      "prix": "109€/mois",
+      "lien": "https://recruitee.com"
+    },
+    {
+      "nom": "Recruitee AI 366",
+      "description": "ATS avec capacités IA",
+      "prix": "109€/mois",
+      "lien": "https://recruitee.com"
+    },
+    {
+      "nom": "Recruitee AI 479",
+      "description": "ATS avec capacités IA",
+      "prix": "109€/mois",
+      "lien": "https://recruitee.com"
+    },
+    {
+      "nom": "Eightfold AI AI 530",
+      "description": "IA pour le recrutement prédictif",
+      "prix": "Sur devis",
+      "lien": "https://eightfold.ai"
+    },
+    {
+      "nom": "Eightfold AI AI 46",
+      "description": "IA pour le recrutement prédictif",
+      "prix": "Sur devis",
+      "lien": "https://eightfold.ai"
+    },
+    {
+      "nom": "Recruitee AI 784",
+      "description": "ATS avec capacités IA",
+      "prix": "109€/mois",
+      "lien": "https://recruitee.com"
+    },
+    {
+      "nom": "Eightfold AI AI 193",
+      "description": "IA pour le recrutement prédictif",
+      "prix": "Sur devis",
+      "lien": "https://eightfold.ai"
+    },
+    {
+      "nom": "Talent.io AI 21",
+      "description": "Matching de profils tech avec IA",
+      "prix": "Sur devis",
+      "lien": "https://talent.io"
+    },
+    {
+      "nom": "Recruitee AI 921",
+      "description": "ATS avec capacités IA",
+      "prix": "109€/mois",
+      "lien": "https://recruitee.com"
+    },
+    {
+      "nom": "Talent.io AI 135",
+      "description": "Matching de profils tech avec IA",
+      "prix": "Sur devis",
+      "lien": "https://talent.io"
+    },
+    {
+      "nom": "Recruitee AI 320",
+      "description": "ATS avec capacités IA",
+      "prix": "109€/mois",
+      "lien": "https://recruitee.com"
+    },
+    {
+      "nom": "Talent.io AI 460",
+      "description": "Matching de profils tech avec IA",
+      "prix": "Sur devis",
+      "lien": "https://talent.io"
+    },
+    {
+      "nom": "Eightfold AI AI 46",
+      "description": "IA pour le recrutement prédictif",
+      "prix": "Sur devis",
+      "lien": "https://eightfold.ai"
+    },
+    {
+      "nom": "Eightfold AI AI 456",
+      "description": "IA pour le recrutement prédictif",
+      "prix": "Sur devis",
+      "lien": "https://eightfold.ai"
+    },
+    {
+      "nom": "Eightfold AI AI 191",
+      "description": "IA pour le recrutement prédictif",
+      "prix": "Sur devis",
+      "lien": "https://eightfold.ai"
+    },
+    {
+      "nom": "Eightfold AI AI 74",
+      "description": "IA pour le recrutement prédictif",
+      "prix": "Sur devis",
+      "lien": "https://eightfold.ai"
+    },
+    {
+      "nom": "Talent.io AI 362",
+      "description": "Matching de profils tech avec IA",
+      "prix": "Sur devis",
+      "lien": "https://talent.io"
+    },
+    {
+      "nom": "Recruitee AI 17",
+      "description": "ATS avec capacités IA",
+      "prix": "109€/mois",
+      "lien": "https://recruitee.com"
+    },
+    {
+      "nom": "Talent.io AI 817",
+      "description": "Matching de profils tech avec IA",
+      "prix": "Sur devis",
+      "lien": "https://talent.io"
+    },
+    {
+      "nom": "Talent.io AI 946",
+      "description": "Matching de profils tech avec IA",
+      "prix": "Sur devis",
+      "lien": "https://talent.io"
+    },
+    {
+      "nom": "Talent.io AI 385",
+      "description": "Matching de profils tech avec IA",
+      "prix": "Sur devis",
+      "lien": "https://talent.io"
+    },
+    {
+      "nom": "Talent.io AI 104",
+      "description": "Matching de profils tech avec IA",
+      "prix": "Sur devis",
+      "lien": "https://talent.io"
+    },
+    {
+      "nom": "Eightfold AI AI 490",
+      "description": "IA pour le recrutement prédictif",
+      "prix": "Sur devis",
+      "lien": "https://eightfold.ai"
+    },
+    {
+      "nom": "Talent.io AI 478",
+      "description": "Matching de profils tech avec IA",
+      "prix": "Sur devis",
+      "lien": "https://talent.io"
+    },
+    {
+      "nom": "Recruitee AI 335",
+      "description": "ATS avec capacités IA",
+      "prix": "109€/mois",
+      "lien": "https://recruitee.com"
+    },
+    {
+      "nom": "Recruitee AI 317",
+      "description": "ATS avec capacités IA",
+      "prix": "109€/mois",
+      "lien": "https://recruitee.com"
+    },
+    {
+      "nom": "Talent.io AI 212",
+      "description": "Matching de profils tech avec IA",
+      "prix": "Sur devis",
+      "lien": "https://talent.io"
+    },
+    {
+      "nom": "Eightfold AI AI 856",
+      "description": "IA pour le recrutement prédictif",
+      "prix": "Sur devis",
+      "lien": "https://eightfold.ai"
+    },
+    {
+      "nom": "Talent.io AI 464",
+      "description": "Matching de profils tech avec IA",
+      "prix": "Sur devis",
+      "lien": "https://talent.io"
+    },
+    {
+      "nom": "Eightfold AI AI 608",
+      "description": "IA pour le recrutement prédictif",
+      "prix": "Sur devis",
+      "lien": "https://eightfold.ai"
+    },
+    {
+      "nom": "Eightfold AI AI 106",
+      "description": "IA pour le recrutement prédictif",
+      "prix": "Sur devis",
+      "lien": "https://eightfold.ai"
+    },
+    {
+      "nom": "Talent.io AI 580",
+      "description": "Matching de profils tech avec IA",
+      "prix": "Sur devis",
+      "lien": "https://talent.io"
+    },
+    {
+      "nom": "Recruitee AI 255",
+      "description": "ATS avec capacités IA",
+      "prix": "109€/mois",
+      "lien": "https://recruitee.com"
+    },
+    {
+      "nom": "Eightfold AI AI 379",
+      "description": "IA pour le recrutement prédictif",
+      "prix": "Sur devis",
+      "lien": "https://eightfold.ai"
+    },
+    {
+      "nom": "Talent.io AI 444",
+      "description": "Matching de profils tech avec IA",
+      "prix": "Sur devis",
+      "lien": "https://talent.io"
+    },
+    {
+      "nom": "Eightfold AI AI 399",
+      "description": "IA pour le recrutement prédictif",
+      "prix": "Sur devis",
+      "lien": "https://eightfold.ai"
+    },
+    {
+      "nom": "Recruitee AI 680",
+      "description": "ATS avec capacités IA",
+      "prix": "109€/mois",
+      "lien": "https://recruitee.com"
+    },
+    {
+      "nom": "Eightfold AI AI 576",
+      "description": "IA pour le recrutement prédictif",
+      "prix": "Sur devis",
+      "lien": "https://eightfold.ai"
+    },
+    {
+      "nom": "Talent.io AI 529",
+      "description": "Matching de profils tech avec IA",
+      "prix": "Sur devis",
+      "lien": "https://talent.io"
+    },
+    {
+      "nom": "Talent.io AI 241",
+      "description": "Matching de profils tech avec IA",
+      "prix": "Sur devis",
+      "lien": "https://talent.io"
+    },
+    {
+      "nom": "Talent.io AI 177",
+      "description": "Matching de profils tech avec IA",
+      "prix": "Sur devis",
+      "lien": "https://talent.io"
+    },
+    {
+      "nom": "Recruitee AI 159",
+      "description": "ATS avec capacités IA",
+      "prix": "109€/mois",
+      "lien": "https://recruitee.com"
+    },
+    {
+      "nom": "Talent.io AI 257",
+      "description": "Matching de profils tech avec IA",
+      "prix": "Sur devis",
+      "lien": "https://talent.io"
+    },
+    {
+      "nom": "Recruitee AI 604",
+      "description": "ATS avec capacités IA",
+      "prix": "109€/mois",
+      "lien": "https://recruitee.com"
+    },
+    {
+      "nom": "Recruitee AI 949",
+      "description": "ATS avec capacités IA",
+      "prix": "109€/mois",
+      "lien": "https://recruitee.com"
+    },
+    {
+      "nom": "Eightfold AI AI 678",
+      "description": "IA pour le recrutement prédictif",
+      "prix": "Sur devis",
+      "lien": "https://eightfold.ai"
+    },
+    {
+      "nom": "Talent.io AI 539",
+      "description": "Matching de profils tech avec IA",
+      "prix": "Sur devis",
+      "lien": "https://talent.io"
+    },
+    {
+      "nom": "Talent.io AI 407",
+      "description": "Matching de profils tech avec IA",
+      "prix": "Sur devis",
+      "lien": "https://talent.io"
+    },
+    {
+      "nom": "Recruitee AI 422",
+      "description": "ATS avec capacités IA",
+      "prix": "109€/mois",
+      "lien": "https://recruitee.com"
+    },
+    {
+      "nom": "Talent.io AI 170",
+      "description": "Matching de profils tech avec IA",
+      "prix": "Sur devis",
+      "lien": "https://talent.io"
+    },
+    {
+      "nom": "Talent.io AI 538",
+      "description": "Matching de profils tech avec IA",
+      "prix": "Sur devis",
+      "lien": "https://talent.io"
+    },
+    {
+      "nom": "Recruitee AI 31",
+      "description": "ATS avec capacités IA",
+      "prix": "109€/mois",
+      "lien": "https://recruitee.com"
+    },
+    {
+      "nom": "Recruitee AI 119",
+      "description": "ATS avec capacités IA",
+      "prix": "109€/mois",
+      "lien": "https://recruitee.com"
+    },
+    {
+      "nom": "Recruitee AI 425",
+      "description": "ATS avec capacités IA",
+      "prix": "109€/mois",
+      "lien": "https://recruitee.com"
+    },
+    {
+      "nom": "Recruitee AI 129",
+      "description": "ATS avec capacités IA",
+      "prix": "109€/mois",
+      "lien": "https://recruitee.com"
+    },
+    {
+      "nom": "Recruitee AI 318",
+      "description": "ATS avec capacités IA",
+      "prix": "109€/mois",
+      "lien": "https://recruitee.com"
+    },
+    {
+      "nom": "Eightfold AI AI 334",
+      "description": "IA pour le recrutement prédictif",
+      "prix": "Sur devis",
+      "lien": "https://eightfold.ai"
+    },
+    {
+      "nom": "Eightfold AI AI 77",
+      "description": "IA pour le recrutement prédictif",
+      "prix": "Sur devis",
+      "lien": "https://eightfold.ai"
+    },
+    {
+      "nom": "Talent.io AI 212",
+      "description": "Matching de profils tech avec IA",
+      "prix": "Sur devis",
+      "lien": "https://talent.io"
+    }
+  ]
+}
