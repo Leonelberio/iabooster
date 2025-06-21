@@ -1,6 +1,23 @@
 import jsPDF from "jspdf";
 import { ResultatAnalyse } from "./types";
 
+// Helper function to safely encode text for PDF
+const safeText = (text: string): string => {
+  return text
+    .replace(/[àáâãäå]/g, "a")
+    .replace(/[èéêë]/g, "e")
+    .replace(/[ìíîï]/g, "i")
+    .replace(/[òóôõö]/g, "o")
+    .replace(/[ùúûü]/g, "u")
+    .replace(/[ñ]/g, "n")
+    .replace(/[ç]/g, "c")
+    .replace(/[œ]/g, "oe")
+    .replace(/[æ]/g, "ae")
+    .replace(/[ÿ]/g, "y")
+    .replace(/[À-ÿ]/g, "?") // Replace other special chars with ?
+    .replace(/[^\x00-\x7F]/g, "?"); // Replace non-ASCII with ?
+};
+
 export function genererRapportPDF(
   resultat: ResultatAnalyse,
   nomEntreprise: string = "Votre Entreprise",
@@ -19,7 +36,7 @@ export function genererRapportPDF(
   doc.setFontSize(12);
   doc.setTextColor(100, 100, 100);
   doc.text(
-    `Rapport généré le ${new Date().toLocaleDateString("fr-FR")}`,
+    safeText(`Rapport genere le ${new Date().toLocaleDateString("fr-FR")}`),
     margin,
     currentY + 10
   );
@@ -29,12 +46,16 @@ export function genererRapportPDF(
   // Titre entreprise
   doc.setFontSize(18);
   doc.setTextColor(0, 0, 0);
-  doc.text(`Plan d'optimisation IA pour ${nomEntreprise}`, margin, currentY);
+  doc.text(
+    safeText(`Plan d'optimisation IA pour ${nomEntreprise}`),
+    margin,
+    currentY
+  );
 
   if (secteur) {
     doc.setFontSize(12);
     doc.setTextColor(100, 100, 100);
-    doc.text(`Secteur: ${secteur}`, margin, currentY + 10);
+    doc.text(safeText(`Secteur: ${secteur}`), margin, currentY + 10);
     currentY += 20;
   }
 
@@ -43,22 +64,22 @@ export function genererRapportPDF(
   // Score et résumé
   doc.setFontSize(14);
   doc.setTextColor(0, 0, 0);
-  doc.text("📊 Résumé de l'analyse", margin, currentY);
+  doc.text("Resume de l'analyse", margin, currentY);
 
   currentY += 15;
   doc.setFontSize(11);
   doc.text(
-    `Score d'optimisation IA: ${resultat.score}/100`,
+    safeText(`Score d'optimisation IA: ${resultat.score}/100`),
     margin + 5,
     currentY
   );
   doc.text(
-    `Temps économisé estimé: ${resultat.tempsMoyenEconomise}`,
+    safeText(`Temps economise estime: ${resultat.tempsMoyenEconomise}`),
     margin + 5,
     currentY + 8
   );
   doc.text(
-    `Domaines identifiés: ${resultat.domainesAOptimiser.length}`,
+    safeText(`Domaines identifies: ${resultat.domainesAOptimiser.length}`),
     margin + 5,
     currentY + 16
   );
@@ -68,7 +89,7 @@ export function genererRapportPDF(
   // Recommandations
   doc.setFontSize(14);
   doc.setTextColor(0, 0, 0);
-  doc.text("🎯 Recommandations personnalisées", margin, currentY);
+  doc.text("Recommandations personnalisees", margin, currentY);
   currentY += 20;
 
   resultat.recommandations.forEach((rec, index) => {
@@ -89,7 +110,7 @@ export function genererRapportPDF(
 
     doc.setFontSize(12);
     doc.text(
-      `${index + 1}. ${rec.domaine} (${rec.priorite.toUpperCase()})`,
+      safeText(`${index + 1}. ${rec.domaine} (${rec.priorite.toUpperCase()})`),
       margin,
       currentY
     );
@@ -100,7 +121,7 @@ export function genererRapportPDF(
 
     // Description avec retour à la ligne
     const descriptionLines = doc.splitTextToSize(
-      rec.description,
+      safeText(rec.description),
       pageWidth - 2 * margin
     );
     doc.text(descriptionLines, margin + 5, currentY);
@@ -108,22 +129,26 @@ export function genererRapportPDF(
 
     // Impact
     doc.setTextColor(34, 197, 94);
-    doc.text(`💡 Impact: ${rec.impact}`, margin + 5, currentY);
+    doc.text(safeText(`Impact: ${rec.impact}`), margin + 5, currentY);
     currentY += 10;
 
     // Outils recommandés
     doc.setTextColor(0, 0, 0);
-    doc.text("🔧 Outils recommandés:", margin + 5, currentY);
+    doc.text("Outils recommandes:", margin + 5, currentY);
     currentY += 8;
 
     rec.outils.slice(0, 3).forEach((outil) => {
       doc.setFontSize(9);
       doc.setTextColor(60, 60, 60);
-      doc.text(`• ${outil.nom} - ${outil.prix}`, margin + 10, currentY);
+      doc.text(
+        safeText(`• ${outil.nom} - ${outil.prix}`),
+        margin + 10,
+        currentY
+      );
       currentY += 5;
 
       const outilDescLines = doc.splitTextToSize(
-        outil.description,
+        safeText(outil.description),
         pageWidth - 2 * margin - 15
       );
       doc.text(outilDescLines, margin + 12, currentY);
@@ -143,7 +168,9 @@ export function genererRapportPDF(
   doc.setFontSize(10);
   doc.setTextColor(150, 150, 150);
   doc.text(
-    "Ce rapport a été généré par IA Booster - Optimisez votre entreprise avec l'IA",
+    safeText(
+      "Ce rapport a ete genere par IA Booster - Optimisez votre entreprise avec l'IA"
+    ),
     margin,
     currentY
   );

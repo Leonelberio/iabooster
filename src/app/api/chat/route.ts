@@ -1,7 +1,7 @@
 import { NextRequest, NextResponse } from "next/server";
 
-const OPENROUTER_API_KEY =
-  "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";
+// Get API key from environment variables
+const OPENROUTER_API_KEY = process.env.OPENROUTER_API_KEY;
 
 interface Message {
   role: "system" | "user" | "assistant";
@@ -34,6 +34,15 @@ Aide l'utilisateur à transformer son entreprise avec l'IA de manière pratique 
 export async function POST(request: NextRequest) {
   try {
     const { messages, userId } = await request.json();
+
+    // Check if API key is configured
+    if (!OPENROUTER_API_KEY) {
+      console.error("OPENROUTER_API_KEY is not configured");
+      return NextResponse.json(
+        { error: "API configuration error" },
+        { status: 500 }
+      );
+    }
 
     if (!messages || !Array.isArray(messages)) {
       return NextResponse.json(
