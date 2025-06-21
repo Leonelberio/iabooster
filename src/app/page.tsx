@@ -7,7 +7,6 @@ import { questions } from "@/lib/questions";
 import { ReponsesFormulaire } from "@/lib/types";
 import Stepper from "@/components/Stepper";
 import QuestionCard from "@/components/QuestionCard";
-import { ArrowLeft, ArrowRight, CheckCircle } from "lucide-react";
 
 export default function HomePage() {
   const router = useRouter();

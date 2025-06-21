@@ -33,7 +33,7 @@ Aide l'utilisateur à transformer son entreprise avec l'IA de manière pratique 
 
 export async function POST(request: NextRequest) {
   try {
-    const { messages, userId } = await request.json();
+    const { messages } = await request.json();
 
     // Check if API key is configured
     if (!OPENROUTER_API_KEY) {
@@ -57,7 +57,7 @@ export async function POST(request: NextRequest) {
         role: "system",
         content: SYSTEM_PROMPT,
       },
-      ...messages.map((msg: any) => ({
+      ...messages.map((msg: { isBot: boolean; text: string }) => ({
         role: (msg.isBot ? "assistant" : "user") as "user" | "assistant",
         content: msg.text,
       })),
